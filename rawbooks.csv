@@ -1,0 +1,868 @@
+#,title,author,category,read?,audio?,language,# Pages,Location,Audible,Chicago?,Cincinnati?,Boston?,Date Bought,Date Read,Time on TBR (days),Time on TBR (years)
+4,The Tale Of The Body Thief,Anne Rice,Fiction,No,Yes,English,435,Chicago,Yes,Rec,Yes,!,"November 15, 2020",N/A,N/A,N/A
+,Old Possum's Book Of Practical Cats,T.S. Eliot,Poetry,No,Yes,English,59,Chicago,Yes,Rec,Rec,!,"July 30, 2022",N/A,N/A,N/A
+,Maoism,Julia Lovell,China,No,Yes,English,465,Boston,Yes,Rec,Yes,Rec,"October 5, 2022",N/A,N/A,N/A
+,Steel Crow Saga,Paul Krueger,Fiction,No,Yes,English,512,Boston,Yes,Rec,Yes,!,"October 5, 2022",N/A,N/A,N/A
+,Victoria,A.N. Wilson,Biography,No,Yes,English,575,Chicago,Yes,Rec,Yes,!,,N/A,N/A,N/A
+,In Search Of The Old Ones,David Roberts,Native Americans,No,Yes,English,238,Chicago,Yes,Rec,Rec,!,,N/A,N/A,N/A
+,"Wild Things, Wild Places",Jane Alexander,Science,No,Yes,English,295,Chicago,Yes,Rec,Rec,!,,N/A,N/A,N/A
+,The Winter Of Our Discontent,John Steinbeck,Classic,No,Yes,English,358,Chicago,Yes,No,Yes,!,,N/A,N/A,N/A
+,The Rise And Fall Of Alexandria,Justin Pollard & Howard Reid,Egyptian Studies,No,Yes,English,290,Chicago,Yes,Rec,Rec,!,,N/A,N/A,N/A
+,Factory Girls,Lislie T. Chang,China,No,Yes,English,407,Chicago,Yes,Rec,Yes,!,,N/A,N/A,N/A
+,K,Tyler Kepner,American History,No,Yes,English,275,Chicago,Yes,Rec,Yes,!,,N/A,N/A,N/A
+,The Children Of Henry VIII,Alison Weir,Biography,Yes,Yes,English,366,Chicago,Yes,Rec,Yes,!,"January 1, 2016","July 28, 2020",1670,4.575342466
+,Before The Dawn,Nicholas Wade,Anthropology,Yes,Yes,English,279,Chicago,Yes,Rec,Yes,!,"July 1, 2019","August 31, 2019",61,0.1671232877
+,Vacation Guide To The Solar System,Olivia Koski & Jana Grevich,Science,Yes,Yes,English,228,Chicago,Yes,Rec,Rec,!,"July 1, 2019","August 26, 2020",422,1.156164384
+,Duel With The Devil,Paul Collins,American History,Yes,Yes,English,218,Chicago,Yes!,Rec,Yes,!,"July 1, 2019",,-43647,-119.5808219
+,Cahokia,Timothy Pauketat,Native Americans,Yes,Yes,English,173,Chicago,Yes,Rec,Yes,!,"July 1, 2019","November 30, 2020",518,1.419178082
+,From Here to Eternity,Caitlin Doughty,Death,Yes,Yes,English,236,Chicago,Yes!,Rec,Yes,!,"July 20, 2019",,-43666,-119.6328767
+,A Thousand Miles To Freedom,Eunsun Kim & Sebastien Falletti,Memior,Yes,Yes,English,228,Chicago,Yes,Rec,Yes,!,"July 20, 2019","August 31, 2019",42,0.1150684932
+,Morgue,Dr. Vincent Di Maio & Ron Franscell,Death,Yes,Yes,English,256,Chicago,Yes,Rec,Yes,!,"October 17, 2019","January 31, 2020",106,0.2904109589
+,Black Elk Speaks,John G. Neihardt,Native Americans,Yes,Yes,English,274,Chicago,Yes,Rec,Yes,!,"October 17, 2019","November 30, 2019",44,0.1205479452
+,If The Walls Could Talk,Lucy Worsley,History,Yes,Yes,English,325,Chicago,Yes,Rec,Yes,!,"October 17, 2019",,-43755,-119.8767123
+,The Road To Dawn,Jared A. Brock,Civil War,Yes,Yes,English,264,Chicago,Yes,Rec,Yes,!,"November 15, 2019","November 30, 2019",15,0.04109589041
+,The Education Of An Idealist,Samantha Power,Memior,Yes,Yes,English,552,Chicago,Yes,Rec,Yes,!,"January 17, 2020","January 17, 2020",0,0
+,The Outlaw Ocean,Ian Urbina,History,Yes,Yes,English,408,Chicago,Yes,Rec,Yes,!,"January 31, 2020","January 31, 2020",0,0
+,The Rape Of Nanking,Iris Chang,China,Yes,Yes,English,290,Chicago,Yes!,Rec,Yes,!,"September 19, 2020","September 19, 2020",0,0
+,The Hate You Give,Angie Thomas,Fiction,Yes,Yes,English,444,Chicago,Yes,Yes,Yes,!,"February 21, 2021",,-44248,-121.2273973
+,Butterfly Swords,Jeannie Lin,Fiction,Yes,Yes,English,282,Chicago,Yes,Rec,Yes,!,"September 1, 2021","January 21, 2022",142,0.3890410959
+,Stronger Than A Bronze Dragon,Mary Fan,Fiction,Yes,Yes,English,372,Chicago,Yes,Rec,Yes,!,"September 1, 2021",,-44440,-121.7534247
+,A Furious Sky,Eric Jay Dolon,History,Yes,Yes,English,305,Chicago,Yes,Rec,Yes,!,"December 1, 2021","January 13, 2022",43,0.1178082192
+,Fencing With The King,Diana Abu-Jaber,Fiction,Yes,Yes,English,298,Chicago,Yes,Yes,Yes,!,"March 10, 2022","April 26, 2022",47,0.1287671233
+,Stranger In Shogun's City,Amy Stanley,History,Yes,Yes,English,252,Chicago,Yes,Rec,Yes,!,,,0,0
+,The Super Age,Bradley Schurman,History,Yes,Yes,English,211,Chicago,Yes!,Rec,Rec,!,,,0,0
+,Come From Away: Welcome To The Rock,Irene Sankoff & David Hein,Theatre,Yes,Yes,English,223,Chicago,Yes,Rec,Yes,!,,"January 21, 2022",44582,122.1424658
+,China: A History,John Keay,China,Yes,Yes,English,535,Chicago,Yes,Rec,Yes,!,,,0,0
+,Madhouse At The End Of The Earth,Julian Sancton,History,Yes,Yes,English,307,Chicago,Yes,Rec,Yes,!,,,0,0
+,Bullets And Opium,Liao Yiwu,China,Yes,Yes,English,254,Chicago,Yes,Rec,Yes,!,,,0,0
+,Sparrows In The Wind,Gail Carson Lrvine,Fiction,No,Yes,English,330,Boston,Yes,Yes,Rec,!,"October 31, 2022",N/A,N/A,N/A
+,Sugar,James Walvin,History,No,Yes,English,291,Boston,Yes,Rec,Rec,!,"October 31, 2022",N/A,N/A,N/A
+,World Religions,Simon Adams,Religion,No,No,English,61,Chicago,No,No,No,No,"January 1, 2010",N/A,N/A,N/A
+,Lincoln in 3D,Bob Zeller & John J. Richter,Civil War,No,No,English,209,Chicago,No,No,No,No,"October 18, 2010",N/A,N/A,N/A
+,The Civil War Experiance,Jay Wertz,Civil War,No,No,English,63,Chicago,No,No,No,No,"October 18, 2010",N/A,N/A,N/A
+,Witness In Palestine,Anna Baltzer,Modern History,No,No,English,365,Chicago,No,No,No,No,"January 1, 2014",N/A,N/A,N/A
+,The Weaker Vessel,Antonia Fraser,Gender Studies,No,No,English,470,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,All Madrid,Fisa Escudo De Oro,Travel,No,No,English,115,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,All Seville,Fisa Escudo De Oro,Travel,No,No,English,115,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,The Royal Palace Madrid,Jean-Francois Lasnier,Travel,No,No,English,62,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+1,The Collection,"Manuel J. Borja-Villel, Jesus Carrillo, & Rosario Peiro",Art,No,No,English,229,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+2,The Collection,"Manuel J. Borja-Villel, Jesus Carrillo, & Rosario Peiro",Art,No,No,English,255,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,Museo Arqueologico Nacional,"Minestry Of Education, Culutre, & Sports",Art,No,No,English,138,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,Partir Para Contar,Muhmud Traore & Bruno Le Dantec,Memior,No,No,Spanish,276,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,Museo Thyssen - Bornemisza,Paul Edson & Araceli Montero,Art,No,No,English,73,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,The Prado Guide,"Philip Sutton, Laura Suffield, & Jenny Dodman",Art,No,No,English,463,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,Kings And Queens Of Spain,Pilar Ramos Vincent,Travel,No,No,English,110,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,Visitor's Guide,Trinidad De Antonio & Jose Riello,Art,No,No,English,50,Chicago,No,No,No,No,"July 20, 2015",N/A,N/A,N/A
+,Ellis Island Offical Souvenir Guide,B. Colin Hamblin,History,No,No,English,36,Chicago,No,No,No,No,"January 1, 2016",N/A,N/A,N/A
+,Aztec And Maya,Charels Philips,Native Americans,No,No,English,501,Boston,No,No,No,No,"January 1, 2016",N/A,N/A,N/A
+,Walking Cincinnati,Danny Korman & Katie Meyer,Travel,No,No,English,245,Chicago,No,No,No,No,"January 1, 2016",N/A,N/A,N/A
+,Shakespear Notebooks,"James Goss, Jonathan Morris, Julian Richards, Justin Richards, & Matthew Sweet",TV and movie,No,No,English,210,Boston,No,No,No,No,"January 1, 2016",N/A,N/A,N/A
+,Princess,Jean P. Sasson,Gender Studies,No,Yes,English,299,Chicago,Yes,No,No,No,"January 1, 2016",N/A,N/A,N/A
+,A Brief History Of Time Lords,Matt Kemp & Justin Richards,TV and movie,No,No,English,46,Boston,No,No,No,No,"January 1, 2016",N/A,N/A,N/A
+,Pharaoh's People,T.G.H. James,Egyptian Studies,No,No,English,267,Chicago,No,No,No,No,"January 1, 2016",N/A,N/A,N/A
+1,My Family And Other Animals,Gerald Durrell,Memior,No,Yes,English,273,Chicago,Yes,No,No,No,"January 1, 2018",N/A,N/A,N/A
+,Sherlock Files,Guy Adams,TV and movie,No,No,English,159,Chicago,No,No,No,No,"January 1, 2018",N/A,N/A,N/A
+,The Book Of Mormon,Joseph Smith,Religion,No,Yes,English,531,Chicago,Yes,No,No,No,"March 3, 2018",N/A,N/A,N/A
+,Nisa,Marjorie Shostak,Anthropology,No,No,English,371,Chicago,No,No,No,No,"March 1, 2019",N/A,N/A,N/A
+,Indians Of South America,Paul Radin,Native Americans,No,No,English,306,Chicago,No,No,No,No,"March 1, 2019",N/A,N/A,N/A
+,Empresses Of China's Forbidden City,?,China,No,No,English,,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Smithsonian Civil War,?,Civil War,No,No,English,,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,The War On Sex,David M. Halperin & Trevor Hoppe,Gender Studies,No,No,English,464,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Anthropology Of Everyday Life,Edward T. Hall,Anthropology,No,No,English,261,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,"Lucy's Bones, Sacred Stones, & Einstein's Brain",Harvey Rachlin,Anthropology,No,No,English,353,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Myths And Legends,Jake Jackson,Religion,No,No,English,484,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,A History Of God,Karen Armstrong,Religion,No,No,English,399,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Great American Short Stories,Many,Classic,No,Yes,English,782,Chicago,Yes,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Male And Female,Margaret Mead,Anthropology,No,No,English,360,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Brilliant Blunders,Mario Livio,Science,No,Yes,English,271,Chicago,Yes,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,"The Aztec, Inca And Maya",Martin J. Dougherty,South American History,No,No,English,217,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Live Long And Evolve,Mohamed A.F. Noor,Star Trek,No,Yes,English,155,Chicago,Yes,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Evita,Nicholas Fraser & Marysa Navarro,South American History,No,Yes,English,198,Chicago,Yes,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Chasing The Sun,Richard Cohen,Science,No,No,English,511,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Native American Almanac,Yvonne Wakim Dennis & Arlene Hirschfelder & Shannon Rothenberger Flynn,Native Americans,No,No,English,605,Chicago,No,No,No,No,"July 1, 2019",N/A,N/A,N/A
+,Sitting Bull,Robert M. Utley,Native Americans,No,No,English,314,Chicago,No,No,No,No,"July 20, 2019",N/A,N/A,N/A
+,A Brief History Of The Human Race,Michael Cook,History,No,No,English,359,Chicago,No,No,No,No,"September 1, 2019",N/A,N/A,N/A
+,Math And The Mona Lisa,Bulent Atalay,Art,No,No,English,282,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,Maya,Charles Gallenkamp,South American History,No,No,English,207,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,The Last Castle,Denise Kiernan,History,No,Yes,English,303,Chicago,Yes,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,The Navajo Code Talkers,Doris A. Paul,Native Americans,No,No,English,152,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,On Morality And Society,Emile Durkheim,Anthropology,No,No,English,223,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,Book Of The Hopi,Frank Waters,Native Americans,No,No,English,337,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,Anthropology And Modern Life,Franz Boas,Anthropology,No,No,English,246,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,The Last Empress,Hannah Pakula,China,No,No,English,681,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,The Neandertal Enigma,James Shreeve,Anthropology,No,No,English,342,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,The Chinese,Jasper Becker,China,No,No,English,377,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,The Search For Eve,Micheal H. Brown,Science,No,No,English,318,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,Sex In History,Reay Tannehill,Gender Studies,No,No,English,426,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,Lost Bird Of Wounded Knee,Renee Sansom Flood,Native Americans,No,No,English,305,Chicago,No,No,No,No,"October 17, 2019",N/A,N/A,N/A
+,The Wisdom Of The Bones,Alan Walker & Pat Shipman,Anthropology,No,No,English,301,Chicago,No,No,No,No,"November 15, 2019",N/A,N/A,N/A
+,Beyond The River,Ann Hagedorn,Civil War,No,No,English,279,Chicago,No,No,No,No,"November 15, 2019",N/A,N/A,N/A
+1,The Raw And The Cooked,Claude Levi Strauss,Anthropology,No,No,English,342,Chicago,No,No,No,No,"November 15, 2019",N/A,N/A,N/A
+,Mightier Than The Sword,David S. Reynolds,Civil War,No,Yes,English,273,Chicago,Yes,No,No,No,"November 15, 2019",N/A,N/A,N/A
+,A Key to Uncle Tom's Cabin,Harriet Beecher Stowe,Civil War,No,No,English,256,Chicago,No,No,No,No,"November 15, 2019",N/A,N/A,N/A
+,Cincinnati Landmarks,Steven J. Rolfes,Travel,No,No,English,127,Chicago,No,No,No,No,"December 25, 2019",N/A,N/A,N/A
+,House and Home Papers,Harriet Beecher Stowe,Civil War,No,No,English,333,Chicago,No,No,No,No,"January 13, 2020",N/A,N/A,N/A
+,A Concise History Of The Civil War,William C. Davis,Civil War,No,No,English,60,Chicago,No,No,No,No,"January 15, 2020",N/A,N/A,N/A
+,Delusions of Gender,Cordelia Fine,Gender Studies,No,Yes,English,244,Chicago,Yes,No,No,No,"February 20, 2020",N/A,N/A,N/A
+,The Art Of Fullmetal Alchemist,Hiromu Arakawa,TV and movie,No,No,English,95,Chicago,No,No,No,No,"February 20, 2020",N/A,N/A,N/A
+,Mao the Unknown Story,Jung Chang,China,No,Yes,English,621,Chicago,Yes,No,No,No,"February 20, 2020",N/A,N/A,N/A
+,The Corpse Walker,Liao Yiwu,China,No,No,English,328,Chicago,No,No,No,No,"February 20, 2020",N/A,N/A,N/A
+,Heros,Many,TV and movie,No,No,English,270,Chicago,No,No,No,No,"February 20, 2020",N/A,N/A,N/A
+,The Math Book,Clifford A. Pickover,Math,No,No,English,516,Chicago,No,No,No,No,"March 1, 2020",N/A,N/A,N/A
+,American Battles,Don Troiani,American History,No,No,English,248,Chicago,No,No,No,No,"March 1, 2020",N/A,N/A,N/A
+,Works of Mark Twain,Mark Twain,Classic,No,Yes,English,690,Chicago,Yes,No,No,No,"March 1, 2020",N/A,N/A,N/A
+,Teach with Your Heart,Erin Gruwell,Memior,No,No,English,265,Chicago,No,No,No,No,"March 31, 2020",N/A,N/A,N/A
+,An Actor Prepares,Constantin Stanislavski,Theatre,No,Yes,English,336,Chicago,Yes,No,No,No,"April 25, 2020",N/A,N/A,N/A
+,Cincinnati Goes to War,Many,Travel,No,No,English,94,Chicago,No,No,No,No,"April 25, 2020",N/A,N/A,N/A
+,God's Red Son,Louis S. Warren,Native Americans,No,No,English,402,Chicago,No,No,No,No,"July 20, 2020",N/A,N/A,N/A
+,The Adventures of Henry Thereau,Michael Sims,Biography,No,Yes,English,321,Chicago,Yes,No,No,No,"July 20, 2020",N/A,N/A,N/A
+,Oracle Bones,Peter Hessler,China,No,Yes,English,458,Chicago,Yes!,No,No,No,"July 20, 2020",N/A,N/A,N/A
+,Difficult Women,Roxane Gay,Gender Studies,No,Yes,English,258,Chicago,Yes,No,No,No,"July 20, 2020",N/A,N/A,N/A
+,The Mexican Revolution,Adolfo Gilly,South American History,No,No,English,416,Chicago,No,No,No,No,"October 15, 2020",N/A,N/A,N/A
+,The First Emperor Of China,Arthur Cotterell,China,No,No,English,208,Chicago,No,No,No,No,"October 15, 2020",N/A,N/A,N/A
+,Return To Dragon Mountain,Jonathan D. Spence,China,No,No,English,332,Chicago,No,No,No,No,"October 15, 2020",N/A,N/A,N/A
+,Claude Levi-Strauss,Patrick Wilcken,Anthropology,No,No,English,432,Chicago,No,No,No,No,"October 15, 2020",N/A,N/A,N/A
+,The Diligent,Robert Harms,History,No,No,English,496,Chicago,No,No,No,No,"October 15, 2020",N/A,N/A,N/A
+7,Merrick,Anne Rice,Fiction,No,Yes,English,370,Chicago,Yes,No,No,No,"November 15, 2020",N/A,N/A,N/A
+1,The Countess,Catherine Coulter,Fiction,No,Yes,English,391,Chicago,Yes,No,No,No,"November 15, 2020",N/A,N/A,N/A
+,The Massacre At El Mozote,Mark Danner,South American History,No,No,English,320,Chicago,No,No,No,No,"November 15, 2020",N/A,N/A,N/A
+,China Wakes,Nicolas D. Kristof & Sheryl Wudunn,China,No,No,English,459,Chicago,No,No,No,No,"January 4, 2021",N/A,N/A,N/A
+,The Importance Of Being Ernest,Oscar Wilde,Play,No,Yes,English,76,Chicago,Yes,No,No,No,"January 4, 2021",N/A,N/A,N/A
+,Belle,Paula Byrne,History,No,No,English,304,Chicago,No,No,No,No,"January 4, 2021",N/A,N/A,N/A
+,Saving Fish From Drowning,Amy Tan,Fiction,No,Yes,English,474,Chicago,Yes,No,No,No,"February 21, 2021",N/A,N/A,N/A
+,Coming Of Age In Samoa,Margaret Mead,Anthropology,No,No,English,170,Chicago,No,No,No,No,"May 5, 2021",N/A,N/A,N/A
+,American Born Chinese,Gene Luen Yang,Fiction,No,No,English,231,Chicago,No,No,No,No,"May 7, 2021",N/A,N/A,N/A
+2,Crooked Kingdom,Leigh Bardugo,Fiction,Yes,Yes,English,536,Chicago,Yes!,No,No,No,"May 7, 2021","October 30, 2022",541,1.482191781
+3,Shattered Dance,Caitlin Brennan,Fiction,No,No,English,442,Chicago,No,No,No,No,"June 1, 2021",N/A,N/A,N/A
+2,Song Of Unmaking,Caitlin Brennan,Fiction,No,No,English,479,Chicago,No,No,No,No,"June 1, 2021",N/A,N/A,N/A
+1,The Mountain's Call,Caitlin Brennan,Fiction,No,No,English,459,Chicago,No,No,No,No,"June 1, 2021",N/A,N/A,N/A
+1,Inda,Sherwood Smith,Fiction,No,No,English,612,Chicago,No,No,No,No,"June 1, 2021",N/A,N/A,N/A
+2,The Fox,Sherwood Smith,Fiction,No,No,English,772,Chicago,No,No,No,No,"June 1, 2021",N/A,N/A,N/A
+3,The King's Shield,Sherwood Smith,Fiction,No,No,English,687,Chicago,No,No,No,No,"June 1, 2021",N/A,N/A,N/A
+4,Treason's Shore,Sherwood Smith,Fiction,No,No,English,770,Chicago,No,No,No,No,"June 1, 2021",N/A,N/A,N/A
+,Will The Boat Sink In The Water,Chen Guidi & Wu Chuntao,China,No,No,English,219,Chicago,No,No,No,No,"July 7, 2021",N/A,N/A,N/A
+1,Silver Phoenix,Cindy Pon,Fiction,No,No,English,338,Chicago,No,No,No,No,"July 7, 2021",N/A,N/A,N/A
+1,Serpentine,Cindy Pon,Fiction,No,Yes,English,274,Chicago,Yes,No,No,No,"July 7, 2021",N/A,N/A,N/A
+,A Crack In Creation,Jennifer A. Doudna & Samuel H. Sternberg,Science,No,Yes,English,246,Chicago,Yes,No,No,No,"July 7, 2021",N/A,N/A,N/A
+,Victorians Undone,Kathryn Hughes,History,No,No,English,365,Chicago,No,No,No,No,"July 20, 2021",N/A,N/A,N/A
+,The Ghost Dance Religion And The Sioux Outbreak Of 1890,James Mooney,Native Americans,No,No,English,331,Chicago,No,No,No,No,"September 1, 2021",N/A,N/A,N/A
+,Upstairs And Downstairs,Sarah Warwick,TV and movie,No,No,English,125,Chicago,No,No,No,No,"September 1, 2021",N/A,N/A,N/A
+,India Calling,Anand Giridharadas,History,No,No,English,254,Chicago,No,No,No,No,"November 9, 2021",N/A,N/A,N/A
+,Perfect Nightmare,John Saul,Fiction,No,Yes,English,365,Chicago,Yes,No,No,No,"November 9, 2021",N/A,N/A,N/A
+,Counting Coup,Larry Colton,Native Americans,No,No,English,413,Chicago,No,No,No,No,"November 9, 2021",N/A,N/A,N/A
+,All That Remains,Sue Black,Death,No,Yes,English,342,Chicago,Yes,No,No,No,"February 1, 2022",N/A,N/A,N/A
+,Cries From The Dark Side Of The Moon,Lauren M. White,Poetry,No,No,English,50,Chicago,No,No,No,No,"February 28, 2022",N/A,N/A,N/A
+,The Lemon Tree,Sandy Tolan,Modern History,No,Yes,English,270,Chicago,Yes,No,No,No,"March 3, 2022",N/A,N/A,N/A
+,Kindred,Rebecca Wragg Sykes,Anthropology,No,Yes,English,386,Chicago,Yes!,No,No,No,"April 7, 2022",N/A,N/A,N/A
+,Tempest Tossed,Susan Campbell,Biography,No,No,English,180,Chicago,No,No,No,No,"May 6, 2022",N/A,N/A,N/A
+,Black Panther Psychology: Hidden Kingdoms,Travis Langley & Alex Simmons,TV and movie,No,No,English,250,Chicago,No,No,No,No,"May 6, 2022",N/A,N/A,N/A
+,The Other Slavery,Andrés Reséndez,Native Americans,No,Yes,English,321,Chicago,Yes,No,No,No,"May 18, 2022",N/A,N/A,N/A
+,Fun Home,Alison Bechdel,Fiction,No,No,English,232,Chicago,No,No,No,No,"June 2, 2022",N/A,N/A,N/A
+1,The Killing Moon,N.K. Jemisin,Fiction,No,Yes,English,404,Chicago,Yes,No,No,No,"June 7, 2022",N/A,N/A,N/A
+,World Of Wonders,Aimee Nezhukumatathil,Memior,Yes,Yes,English,165,Chicago,Yes,No,No,No,"June 19, 2022","November 6, 2022",140,0.3835616438
+,The World According To Color,James Fox,Anthropology,No,No,English,226,Chicago,No,No,No,No,"June 27, 2022",N/A,N/A,N/A
+,When America First Met China,Eric Jay Dolon,China,No,Yes,English,313,Chicago,Yes,No,No,No,"July 2, 2022",N/A,N/A,N/A
+,Lagoon,Nnedi Okorafor,Fiction,No,Yes,English,304,Chicago,Yes,No,No,No,"July 2, 2022",N/A,N/A,N/A
+,Black Dog of Fate,Peter Balakian,Memior,No,Yes,English,348,Chicago,Yes,No,No,No,"July 2, 2022",N/A,N/A,N/A
+,The Lone Ranger & Tonto Fistfight in Heaven,Sherman Alexie,Fiction,No,No,English,242,Chicago,No,No,No,No,"July 2, 2022",N/A,N/A,N/A
+1,Captive Prince,C.S. Pacat,Fiction,No,Yes,English,270,Chicago,Yes,No,No,No,"July 3, 2022",N/A,N/A,N/A
+,Oceans Of Grain,Scott Reynolds Nelson,History,No,No,English,277,Chicago,No,No,No,No,"July 13, 2022",N/A,N/A,N/A
+,Be Drag Fabulous,Queen Lagrande,Gender Studies,No,No,English,122,Chicago,No,No,No,No,"July 14, 2022",N/A,N/A,N/A
+,The Great Moghuls,Bamber Gascoigne,History,No,No,English,247,Chicago,No,No,No,No,"July 18, 2022",N/A,N/A,N/A
+,They Poured Fire On Us From The Sky,"Benson Deng, Alephonsion Deng, & Benjamin Ajak",History,No,Yes,English,311,Chicago,Yes,No,No,No,"July 18, 2022",N/A,N/A,N/A
+3,The Scum Villain's Self-Saving System Vol 3,Mo Xiang Tong Xiu,MXTX,No,No,English,343,Boston,No,No,No,No,"July 26, 2022",N/A,N/A,N/A
+,Battle Hymn Of The Tiger Mother,Amy Chua,China,No,Yes,English,229,Chicago,Yes,No,No,No,"July 28, 2022",N/A,N/A,N/A
+,El Greco,Antonina Vallentin,Art,No,No,English,294,Chicago,No,No,No,No,"July 28, 2022",N/A,N/A,N/A
+,Tchaikovsy In America,Elkhonin Yoffe,American History,No,No,English,205,Chicago,No,No,No,No,"July 28, 2022",N/A,N/A,N/A
+,The Motorcycle Diaries,Ernesto Che Guevara,South American History,No,Yes,English,155,Chicago,Yes,No,No,No,"July 28, 2022",N/A,N/A,N/A
+,Flu,Gina Kolata,Science,No,Yes,English,306,Chicago,Yes,No,No,No,"July 28, 2022",N/A,N/A,N/A
+,"The Civil War and Reconstruction Era, 1861-1877",Kenneth L. Kusmer,Civil War,No,No,English,431,Chicago,No,No,No,No,"July 28, 2022",N/A,N/A,N/A
+,"Sex, Death, And Hierarchy In A Chinese City",William R. Jankowiak,Anthropology,No,No,English,306,Chicago,No,No,No,No,"July 28, 2022",N/A,N/A,N/A
+,The Valley Of Amazement,Amy Tan,Fiction,No,Yes,English,589,Chicago,Yes,No,No,No,"July 30, 2022",N/A,N/A,N/A
+,Bloody Mary,Carolly Erickson,History,No,Yes,English,484,Chicago,Yes,No,No,No,"July 30, 2022",N/A,N/A,N/A
+,Mrs. Lincoln And Mrs. Keckly,Jennifer Fleischner,Civil War,No,No,English,325,Chicago,No,No,No,No,"July 30, 2022",N/A,N/A,N/A
+,Emperor Of China,Jonathan D. Spence,China,No,No,English,175,Chicago,No,No,No,No,"July 30, 2022",N/A,N/A,N/A
+1,Tales From The Mos Eisley Cantina,Kevin J. Anderson,TV and movie,No,No,English,380,Chicago,No,No,No,No,"July 30, 2022",N/A,N/A,N/A
+5,A Secret Affair,Mary Balogh,Fiction,No,Yes,English,368,Chicago,Yes,No,No,No,"July 30, 2022",N/A,N/A,N/A
+,Fidel Castro,Robert E. Quirk,South American History,No,No,English,840,Chicago,No,No,No,No,"July 30, 2022",N/A,N/A,N/A
+,Empress,Shan Sa,Fiction,No,No,English,319,Chicago,No,No,No,No,"July 30, 2022",N/A,N/A,N/A
+,The Broken Spears,Miguel León-Portilla,South American History,No,No,English,192,Boston,No,No,No,No,"August 4, 2022",N/A,N/A,N/A
+,The Shattered Gates,Ginn Hale,Fiction,No,No,English,341,Boston,No,No,No,No,"August 10, 2022",N/A,N/A,N/A
+4,Heaven Official's Blessing Vol 4,Mo Xiang Tong Xiu,MXTX,No,No,English,368,Boston,No,No,No,No,"September 27, 2022",N/A,N/A,N/A
+,The Woman Warrior,Maxine Hong Kingston,Memior,No,Yes,English,209,Boston,Yes,No,No,No,"October 1, 2022",N/A,N/A,N/A
+,Santa Anna Of Mexico,Will Fowler,History,No,No,English,368,Boston,No,No,No,No,"October 1, 2022",N/A,N/A,N/A
+2,Adulthood Rites,Octavia E. Butler,Fiction,No,Yes,English,302,Boston,Yes,No,No,No,"October 5, 2022",N/A,N/A,N/A
+,Glass,Alan Macfarlane & Gerry Martin,History,No,No,English,203,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Project Hail Mary,Andy Weir,Fiction,No,Yes,English,476,Boston,Yes!,No,No,No,,N/A,N/A,N/A
+,Abraham Lincoln,Benjamin P. Thomas,Civil War,No,No,English,522,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Lincoln The Unknown,Dale Carnegie,Civil War,No,No,English,253,Chicago,No,No,No,No,,N/A,N/A,N/A
+,American Revolution,David C.G. Dutcher,American History,No,No,English,56,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Ice Bound,Dr. Jerri Nielsen,Memior,No,Yes,English,362,Chicago,Yes,No,No,No,,N/A,N/A,N/A
+,Age Of Ambition,Evan Osnos,China,No,Yes,English,371,Chicago,Yes,No,No,No,,N/A,N/A,N/A
+,Teacher Says,Evelyn Porreca Vuko,Teaching,No,No,English,290,Boston,No,No,No,No,,N/A,N/A,N/A
+,Gettysburg,Harry W. Pfanz,Civil War,No,No,English,60,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Lost City Of The Incas,Hiram Bingham,Native Americans,No,No,English,254,Boston,No,No,No,No,,N/A,N/A,N/A
+1,Wool,Hugh Howey,Fiction,No,Yes,English,532,Boston,Yes!,No,No,No,,N/A,N/A,N/A
+,When Baghdad Ruled The Muslim World,Hugh Kennedy,History,No,No,English,296,Chicago,No,No,No,No,,N/A,N/A,N/A
+,History Of The Civil War,James I. Robertson Jr.,Civil War,No,No,English,63,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Downton Abby A Celebration,Jessica Fellows,TV and movie,No,No,English,317,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Che,Jon Lee Anderson & Jose Hernandez,South American History,No,No,English,421,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Treason By The Book,Jonathan D. Spence,China,No,No,English,247,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Evil,Julia Shaw,Science,No,Yes,English,264,Chicago,Yes,No,No,No,,N/A,N/A,N/A
+,Yellow Woman And A Beauty Of The Spirit,Leslie Marmon Silko,Native Americans,No,No,English,200,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Al Tanto,Many,Fiction,No,Yes,English,133,Chicago,Yes,No,No,No,,N/A,N/A,N/A
+,Inhuman Traffick,Rafe Blaufarb & Liz Clarke,History,No,No,English,179,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Lincoln and his Word,Richard Lawrence Miller,Civil War,No,No,English,533,Chicago,No,No,No,No,,N/A,N/A,N/A
+,Thousand Pieces Of Gold,Ruthanne Lum McCunn,China,No,Yes,English,308,Boston,Yes!,No,No,No,,N/A,N/A,N/A
+,Chess,Yury Shulman,Practical Skills,Yes,No,English,205,Chicago,No,No,No,No,"January 1, 2007","January 1, 2007",0,0
+,Wicked The Grimmerie,David Cote,Theatre,Yes,No,English,189,Chicago,No,No,No,No,"October 18, 2010","October 18, 2010",0,0
+1,Persepolis The Story Of A Childhood,Marjane Satrapi,Gender Studies,Yes,No,English,153,Chicago,No,No,No,No,"January 1, 2012","January 1, 2012",0,0
+2,Persepolis The Story Of A Return,Marjane Satrapi,Gender Studies,Yes,No,English,187,Chicago,No,No,No,No,"January 1, 2012","January 1, 2012",0,0
+,El Escorial,Jean-Francois Lasnier,Travel,Yes,No,English,64,Chicago,No,No,No,No,"July 20, 2015","January 11, 2022",2367,6.484931507
+,Espania,Emma Bradford,Travel,Yes,No,English& Spanish,31,Chicago,No,No,No,No,"September 1, 2015","September 1, 2015",0,0
+,iOS 8 Swift Programming Cookbook,Vandad Nahavandipoor,Coding,Yes,No,English,862,Chicago,No,No,No,No,"December 25, 2015","December 25, 2015",0,0
+,1858,Bruce Chadwick,Civil War,Yes,No,English,300,Chicago,No,No,No,No,"January 1, 2016","November 29, 2020",1794,4.915068493
+,My Friend Dahmer,Derf Backderf,Memior,Yes,No,English,224,Chicago,No,No,No,No,"January 1, 2016","January 1, 2016",0,0
+,History Makers,Ian Whitelaw & Julie Whitaker,Biography,Yes,No,English,247,Chicago,No,No,No,No,"January 1, 2016","May 19, 2021",1965,5.383561644
+,The Children's Bible,Many,Religion,Yes,Yes,English,510,Chicago,Yes,No,No,No,"January 1, 2016","January 1, 2016",0,0
+,Holy Bible,Many,Religion,Yes,Yes,English,1466,Chicago,Yes,Yes,Yes,No,"January 1, 2016","January 1, 2016",0,0
+,A History Of The Wife,Marilyn Yalom,Anthropology,Yes,No,English,400,Chicago,No,No,No,No,"January 1, 2016","November 28, 2020",1793,4.912328767
+,Avatar: The Lost Adventures,Michael DiMartino & Bryan Konietzko,TV and movie,Yes,No,English,226,Chicago,No,No,No,No,"January 1, 2016","March 26, 2021",1911,5.235616438
+,The Way To Rainy Mountain,N. Scott Monaday,Native Americans,Yes,No,English,89,Chicago,No,No,No,No,"January 1, 2016","November 30, 2019",1429,3.915068493
+,The Thrilling Adventures of Lovelace And Babage,Sydney Padua,Biography,Yes,No,English,317,Boston,No,No,No,No,"January 1, 2016","January 1, 2016",0,0
+,It's All In The Frijoles,Yolanda Nava,South American History,Yes,No,English,293,Chicago,No,No,No,No,"January 1, 2016","March 25, 2021",1910,5.232876712
+,Abriendo Puertas,Bowen y Bowen,Classic,Yes,Yes,Spanish,638,Chicago,Yes,No,No,No,"September 1, 2016","September 1, 2016",0,0
+,"Natasha, Pierre, & the Great Comet of 1812",Many,Theatre,Yes,No,English,208,Chicago,No,No,No,No,"July 1, 2017","July 1, 2017",N/A,N/A
+,Linear Algebra And It's Aplications,"David C. Lay, Steven R. Lay, & Judi J. McDonald",Textbook,Yes,No,English,494,Boston,No,No,No,No,"September 1, 2017","September 1, 2017",0,0
+,How Humans Evolved,Robert Boyd & Joan B. Silk,Textbook,Yes,No,English,440,Chicago,No,No,No,No,"September 1, 2017","September 1, 2017",0,0
+,Applied Statistics And Probability For Engineers,Douglas C. Montgomery & George C. Runger,Textbook,Yes,No,English,734,Boston,No,No,No,No,"February 1, 2018","February 1, 2018",0,0
+,The Nature Of Biology,Dr. Jill Beyette,Textbook,Yes,No,English,152,Chicago,No,No,No,No,"February 1, 2018","February 1, 2018",0,0
+,Biology,"Kenneth A. Mason, Jonathan B. Losos, & Susan R. Singer",Textbook,Yes,No,English,1281,Chicago,No,No,No,No,"February 1, 2018","February 1, 2018",0,0
+,Sleep Paralysis,Shelly R. Adler,Textbook,Yes,No,English,136,Chicago,No,No,No,No,"February 1, 2018","February 1, 2018",0,0
+,China,"Damian Harper, Piera Chen, Megan Eaves, & David Eimer",Travel,Yes,No,English,1036,Chicago,No,No,No,No,"July 1, 2018","July 1, 2018",0,0
+,Lincoln And Medicine,Glenna R. Schoeder-Lein,Civil War,Yes,No,English,89,Chicago,No,No,No,No,"August 1, 2018","January 6, 2022",1254,3.435616438
+,Idiot's Guide To Tiny House,Gabriella & Andrew Morrison,Practical Skills,Yes,No,English,272,Chicago,No,No,No,No,"January 1, 2019","January 1, 2019",0,0
+,Dreaming,Barbara Tedlock,Textbook,Yes,No,English,261,Chicago,No,No,No,No,"February 1, 2019","February 1, 2019",0,0
+,The Art Of Language Invention,David J. Peterson,Textbook,Yes,No,English,265,Chicago,No,No,No,No,"February 1, 2019","February 1, 2019",#ERROR!,N/A
+,The Language Construction Kit,Mark Rosenfelder,Textbook,Yes,No,English,249,Chicago,No,No,No,No,"February 1, 2019","February 1, 2019",0,0
+,Geological Aspects of Key Archaeological Sites In Northern Kentucky And Southern Ohio,Timothy S. Dalbey,Textbook,Yes,No,English,119,Chicago,No,No,No,No,"February 1, 2019","February 1, 2019",0,0
+,C++,Tony Gaddis,Textbook,Yes,No,English,1283,Boston,No,No,No,No,"February 1, 2019","February 1, 2019",0,0
+,This Land Was Theris,Wendell H. Oswalt,Textbook,Yes,No,English,485,Chicago,No,No,No,No,"February 1, 2019","February 1, 2019",0,0
+,Professor Stewart's Casebook Of Mathematical Mysteries,Ian Stewart,Math,Yes,No,English,307,Chicago,No,No,No,No,"July 1, 2019",,-43647,-119.5808219
+,They Came Before Columbus,Ivan van Sertima,Native Americans,Yes,No,English,272,Chicago,No,No,No,No,"July 1, 2019",,-43647,-119.5808219
+,Volta,Many,Theatre,Yes,No,English,63,Chicago,No,No,No,No,"July 1, 2019","July 1, 2019",0,0
+,Anthropology Explored,Many,Anthropology,Yes,No,English,449,Chicago,No,No,No,No,"July 1, 2019",,-43647,-119.5808219
+,Museum Of Lost Art,Noah Charney,Art,Yes,No,English,280,Chicago,No,No,No,No,"July 1, 2019",,-43647,-119.5808219
+,The Jungle,Upton Sinclair & Kristina Gehrmann,Classic,Yes,No,English,378,Chicago,No,No,No,No,"July 1, 2019","July 31, 2019",30,0.08219178082
+,The Good Women Of China,Xinran,China,Yes,No,English,242,Chicago,No,No,No,No,"July 1, 2019","May 11, 2020",315,0.8630136986
+,Gender Your Guide,Dr. Lee Airton,Gender Studies,Yes,No,English,214,Chicago,No,No,No,No,"July 20, 2019",,-43666,-119.6328767
+,The Cher Show,Many,Theatre,Yes,No,English,33,Chicago,No,No,No,No,"July 20, 2019","July 20, 2019",0,0
+,Urban Tantra,Barbara Carrellas,Textbook,Yes,No,English,259,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,Yes means Yes,Jaclyn Friedman & Jessica Valenti,Textbook,Yes,No,English,319,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,The Ethical Slut,Janet W. Hardy & Dossie Easton,Textbook,Yes,No,English,295,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,Living Language,Laura M. Ahearn,Textbook,Yes,No,English,304,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,Guide To Gettng It On,Paul Joannides,Textbook,Yes,No,English,1080,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,Anthropology And Religion,Robert L. Winzeler,Textbook,Yes,No,English,280,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,Discovering Human Sexuality,"Simon LeVay, Janice Baldwin, & John Baldwin",Textbook,Yes,No,English,557,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,Sexuality: A Very Short Introduction,Veronique Mottier,Gender Studies,Yes,No,English,127,Chicago,No,No,No,No,"September 1, 2019","September 1, 2019",0,0
+,Son Of The Revolution,Liang Heng & Judith Shapiro,China,Yes,No,English,292,Chicago,No,No,No,No,"October 1, 2019","October 31, 2019",30,0.08219178082
+1,Maus I,Art Spiegelman,WWII,Yes,No,English,159,Chicago,No,No,No,No,"October 17, 2019","October 17, 2019",0,0
+2,Maus II,Art Spiegelman,WWII,Yes,No,English,136,Chicago,No,No,No,No,"October 17, 2019","October 17, 2019",0,0
+,The Girls Of Atomic City,Denise Kiernan,WWII,Yes,Yes,English,315,Chicago,Yes!,No,No,No,"October 17, 2019","November 12, 2019",26,0.07123287671
+,Mao's Last Dancer,Li Cunxin,China,Yes,Yes,English,492,Chicago,Yes!,No,No,No,"October 17, 2019","November 30, 2019",44,0.1205479452
+,The Hot Sauce Cookbook,Robb Walsh,Practical Skills,Yes,No,English,140,Chicago,No,No,No,No,"October 17, 2019",,-43755,-119.8767123
+,Red Nile,Robert Twigger,Egyptian Studies,Yes,No,English,449,Chicago,No,No,No,No,"October 17, 2019","August 12, 2022",1030,2.821917808
+,Chinese Society And Culture,Yao Baorong & Wei Zhou,China,Yes,No,English,479,Chicago,No,No,No,No,"October 17, 2019","February 5, 2020",111,0.304109589
+,They Called Us Enemy,"George Takei, Justin Eisinger, & Steven Scott",WWII,Yes,No,English,204,Chicago,No,No,No,No,"November 1, 2019","November 12, 2019",11,0.0301369863
+,Genesis,Edward O. Wilson,Science,Yes,Yes,English,125,Chicago,Yes,No,No,No,"November 15, 2019",,-43784,-119.9561644
+,The Neandertals,Erik Trinkaus & Pat Shipman,Anthropology,Yes,No,English,419,Chicago,No,No,No,No,"November 15, 2019",,-43784,-119.9561644
+,Harriet Beecher Stowe,Joan D. Hedrick,American History,Yes,No,English,398,Chicago,No,No,No,No,"November 15, 2019",,-43784,-119.9561644
+,Come From Away,Many,Theatre,Yes,No,English,35,Chicago,No,No,No,No,"November 15, 2019","November 15, 2019",0,0
+,Linux Pocket Guide,Daniel J. Barrnett,Coding,Yes,No,English,248,Chicago,No,No,No,No,"December 25, 2019","December 25, 2019",0,0
+,Becoming RBG,Debbie Levy,RBG,Yes,No,English,191,Chicago,No,No,No,No,"December 25, 2019",,-43824,-120.0657534
+,Python Pocket Guide,Mark Lutz,Coding,Yes,No,English,242,Chicago,No,No,No,No,"December 25, 2019","December 25, 2019",0,0
+,Baha'i Prayers,Many,Religion,Yes,No,English,28,Chicago,No,No,No,No,"January 13, 2020","January 13, 2020",0,0
+,Algorithms,Kenneth A. Berman & Jerome L. Paul,Textbook,Yes,No,English,443,Chicago,No,No,No,No,"February 1, 2020","February 1, 2020",0,0
+,The Enigmas of Easter Island,John Flenley and Paul Bahn,Anthropology,Yes,No,English,213,Chicago,No,No,No,No,"February 20, 2020",,-43881,-120.2219178
+,Multisensory Teaching of Basic Language Skills,Suzanne Carreker & Judith R. Birsh,Teaching,Yes,No,English,191,Chicago,No,No,No,No,"March 1, 2020",,-43891,-120.2493151
+,The Martian,Andy Weir,Fiction,Yes,Yes,English,435,Chicago,Yes!,No,No,No,"April 25, 2020","April 25, 2020",0,0
+,The Long Pursuit,Roy Morris Jr.,Civil War,Yes,No,English,217,Chicago,No,No,No,No,"July 20, 2020","July 7, 2022",717,1.964383562
+,Designs For The Pluriverse,Arturo Escobar,Textbook,Yes,No,English,227,Chicago,No,No,No,No,"September 1, 2020","September 1, 2020",0,0
+,Archaeology,Colin Renfrew & Paul Bahn,Textbook,Yes,No,English,595,Chicago,No,No,No,No,"September 1, 2020","September 1, 2020",0,0
+,Practical Strategies,Mike Markel & Stuart A. Selber,Textbook,Yes,No,English,446,Chicago,No,No,No,No,"September 1, 2020","September 1, 2020",0,0
+,Born A Crime,Trevor Noah,Memior,Yes,Yes,English,289,Chicago,Yes!,No,No,No,"October 1, 2020",,-44105,-120.8356164
+,The History Of The Original Peoples Of Northern Canada,Keith J. Crowe,Native Americans,Yes,No,English,264,Chicago,No,No,No,No,"October 15, 2020","December 21, 2020",67,0.1835616438
+,Survival Chinesee,Boye Lafayette De Mente,Language,Yes,No,English,158,Chicago,No,No,No,No,"November 15, 2020","November 15, 2020",0,0
+2,Heartstopper 2,Alice Oseman,Fiction,Yes,No,English,320,Chicago,No,No,No,No,"December 25, 2020",,-44190,-121.0684932
+,Edgar Allan Poe Classic Stories,Edgar Allan Poe,Fiction,Yes,Yes,English,348,Chicago,Yes,No,No,No,"February 20, 2021",,-44247,-121.2246575
+1,Six Of Crows,Leigh Bardugo,Fiction,Yes,Yes,English,465,Chicago,Yes!,No,No,No,"May 7, 2021","August 27, 2022",477,1.306849315
+,57 Practical Programs & Games In Basic,Ken Tracton,Coding,Yes,No,English,204,Chicago,No,No,No,No,"June 2, 2021","June 2, 2021",0,0
+,Unnatural Selection,Mara Hvistendahl,Science,Yes,Yes,English,262,Chicago,Yes!,No,No,No,"July 7, 2021",,-44384,-121.6
+,China Mountain Zhang,Maureen F. McHugh,Fiction,Yes,No,English,311,Chicago,No,No,No,No,"July 7, 2021",,-44384,-121.6
+,The Mushroom At The End Of The World,Anna Lowenhaupt Tsing,Textbook,Yes,No,English,288,Chicago,No,No,No,No,"September 1, 2021","September 1, 2021",0,0
+,Beijing Comrades,Bei Tong,Fiction,Yes,No,English,380,Chicago,No,No,No,No,"September 1, 2021","February 4, 2022",156,0.4273972603
+,Of Beards And Men,Christopher Oldstone-Moore,History,Yes,No,English,292,Chicago,No,No,No,No,"September 1, 2021","December 21, 2021",111,0.304109589
+,Ordinary Affects,Kathleen Stewart,Textbook,Yes,No,English,129,Chicago,No,No,No,No,"September 1, 2021","September 1, 2021",0,0
+,Forensic Anthropology,Natalie R. Langley & MariaTeresa A. Tersigni-Tarrant,Textbook,Yes,No,English,361,Chicago,No,No,No,No,"September 1, 2021","September 1, 2021",0,0
+,Designs For An Anthropology Of The Contemporary,Paul Rainbow & George E. Marcus,Textbook,Yes,No,English,121,Chicago,No,No,No,No,"September 1, 2021","September 1, 2021",0,0
+,Formal Languages And Automata,Peter Linz,Textbook,Yes,No,English,375,Chicago,No,No,No,No,"September 1, 2021","September 1, 2021",0,0
+,Mastering Cloud Computing,"Rajkumar Buyya, Christian Vecchiola, & S. Thamarai Selvi",Textbook,Yes,No,English,425,Chicago,No,No,No,No,"September 1, 2021",,-44440,-121.7534247
+,Hadoop,Tom White,Textbook,Yes,No,English,700,Chicago,No,No,No,No,"September 1, 2021","September 1, 2021",0,0
+,Baba,Belle Yang,China,Yes,No,English,208,Chicago,No,No,No,No,"November 9, 2021","February 2, 2022",85,0.2328767123
+,Sky Burial,Xinran,China,Yes,No,English,158,Chicago,No,No,No,No,"November 9, 2021","January 20, 2022",72,0.197260274
+,My Country And My People,Lin Yutang,China,Yes,No,English,348,Chicago,No,No,No,No,"November 9, 2021","October 9, 2022",334,0.9150684932
+1,The Grandmaster Of Demonic Cultivation Vol 1,Mo Xiang Tong Xiu,MXTX,Yes,No,English,350,Chicago,No,No,No,No,"December 14, 2021","December 14, 2021",0,0
+1,Heaven Official's Blessing Vol 1,Mo Xiang Tong Xiu,MXTX,Yes,No,English,372,Chicago,No,No,No,No,"December 14, 2021",,-44544,-122.0383562
+1,The Scum Villain's Self-Saving System Vol 1,Mo Xiang Tong Xiu,MXTX,Yes,No,English,291,Chicago,No,No,No,No,"December 14, 2021",,-44544,-122.0383562
+2,Heaven Official's Blessing Vol 2,Mo Xiang Tong Xiu,MXTX,Yes,No,English,389,Chicago,No,No,No,No,"February 15, 2022","June 15, 2022",120,0.3287671233
+,Returning to Reims,Dider Eribon,Anthropology,Yes,No,English,245,Chicago,No,No,No,No,"March 3, 2022","July 17, 2022",136,0.3726027397
+,The Sumage Solution,G.L. Carriger,Fiction,Yes,Yes,English,305,Chicago,Yes!,No,No,No,"March 3, 2022","June 28, 2022",117,0.3205479452
+,House Of Leaves,Mark Z. Danielewski,Fiction,Yes,No,English,662,Chicago,No,No,No,No,"April 7, 2022","May 25, 2022",48,0.1315068493
+2,The Scum Villain's Self-Saving System Vol 2,Mo Xiang Tong Xiu,MXTX,Yes,No,English,302,Chicago,No,No,No,No,"April 19, 2022","July 24, 2022",96,0.2630136986
+2,The Grandmaster Of Demonic Cultivation Vol 2,Mo Xiang Tong Xiu,MXTX,Yes,No,English,351,Chicago,No,No,No,No,"May 18, 2022","June 27, 2022",40,0.1095890411
+,How to be Drawn,Terrance Hayes,Poetry,Yes,No,English,96,Chicago,No,No,No,No,"July 2, 2022","August 3, 2022",32,0.08767123288
+,Gender Queer,Maia Kobabe,Memior,Yes,No,English,243,Chicago,No,No,No,No,"July 5, 2022","July 5, 2022",0,0
+2,Lore Olympus Vol 2,Rachel Smythe,Fiction,Yes,No,English,368,Chicago,No,No,No,No,"July 10, 2022","July 24, 2022",14,0.03835616438
+3,Heaven Official's Blessing Vol 3,Mo Xiang Tong Xiu,MXTX,Yes,No,English,415,Chicago,No,No,No,No,"July 12, 2022","October 11, 2022",91,0.2493150685
+,Historic Walks In Old Boston,John Harris,Travel,Yes,No,English,317,Boston,No,No,No,No,"July 18, 2022",N/A,N/A,N/A
+,Not For Tourists Guide To Boston,Not For Tourists,Travel,Yes,No,English,235,Boston,No,No,No,No,"July 18, 2022",N/A,N/A,N/A
+,Did That Just Happen?!,Dr. Stephanie Pinder-Amaker & Dr. Lauren Wadsworth,Practical Skills,Yes,Yes,English,180,Boston,Yes,No,No,No,"August 19, 2022",N/A,N/A,N/A
+3,The Grandmaster Of Demonic Cultivation Vol 3,Mo Xiang Tong Xiu,MXTX,Yes,No,English,321,Boston,No,No,No,No,"August 29, 2022","August 29, 2022",0,0
+3,Lore Olympus Vol 3,Rachel Smythe,Fiction,Yes,No,English,384,Boston,No,No,No,No,"October 12, 2022","October 20, 2022",8,0.02191780822
+,The Gettysburg Address,Abraham Lincoln,Civil War,Yes,No,English,89,Chicago,No,No,No,No,,,0,0
+1,HeartStopper,Alice Oseman,Fiction,Yes,No,English,263,Chicago,No,No,No,No,,,0,0
+3,Heartstopper 3,Alice Oseman,Fiction,Yes,No,English,351,Chicago,No,No,No,No,,,0,0
+4,Heartstopper 4,Alice Oseman,Fiction,Yes,No,English,367,Chicago,No,No,No,No,,,0,0
+,Artemis,Andy Weir,Fiction,Yes,Yes,English,305,Chicago,Yes,No,No,No,,"July 31, 2019",43677,119.6630137
+,Spark,Bill Chambers & Matei Zaharia,Textbook,Yes,No,English,559,Chicago,No,No,No,No,,,0,0
+,Sex At Dawn,Christopher Ryan & Cacilda Jetha,Science,Yes,Yes,English,312,Chicago,Yes!,No,No,No,,"August 3, 2022",44776,122.6739726
+,Demystifying Disability,Emily Ladau,History,Yes,Yes,English,149,Boston,Yes,No,No,No,,,0,0
+,Proof Of Me,Erica Plouffe Lazure,Fiction,Yes,No,English,248,Chicago,No,No,No,No,,,0,0
+,Trabajo Y Vida,Garfinkel Latorre,Language,Yes,No,English,184,Chicago,No,No,No,No,,,0,0
+1,Fullmetal Alchemist,Hiromu Arakawa,Fiction,Yes,No,English,269,Chicago,No,No,No,No,,,0,0
+,Spanish For Oral And Written Review,Iglesias-Meiden,Textbook,Yes,No,English,429,Chicago,No,No,No,No,,,0,0
+,Inherit The Wind,Jerome Lawrence & Robert E. Lee,Play,Yes,Yes,English,129,Chicago,Yes,No,No,No,,,0,0
+,American Indian Archaeology,Kenneth Barnett Tankersley & Robert Brand Newman,Textbook,Yes,No,English,295,Chicago,No,No,No,No,,,0,0
+,Fire Logic,Laurie J. Marks,Fiction,Yes,No,English,359,Chicago,No,No,No,No,,,0,0
+1,Lore Olympus vol 1,Rachel Smythe,Fiction,Yes,No,English,384,Chicago,No,No,No,No,,,0,0
+2,Prince's Gambit,C.S. Pacat,Fiction,No,Yes,English,404,Boston,Yes,No,No,No,"October 24, 2022",N/A,N/A,N/A
+,Brickmakers,Selva Almada,Fiction,No,No,English,181,Boston,No,No,No,No,"October 27, 2022",N/A,N/A,N/A
+,The Alignment Problem,Brian Christian,Coding,No,Yes,English,329,Boston,Yes,No,No,No,"October 31, 2022",N/A,N/A,N/A
+,Geronimo,Geronimo,Native Americans,No,Yes,English,170,Boston,Yes,Rec,Yes,Rec,"July 28, 2022",N/A,N/A,N/A
+,The Day Lincoln Was Shot,Jim Bishop,Civil War,No,Yes,English,304,Chicago,Yes,Rec,Yes,Rec,"July 28, 2022",N/A,N/A,N/A
+,Pearl Of China,Anchee Min,Fiction,No,Yes,English,275,Chicago,Yes,Rec,Rec,Rec,"July 30, 2022",N/A,N/A,N/A
+,The Secret Life Of Bees,Sue Monk Kidd,Fiction,No,Yes,English,302,Chicago,Yes,Rec,Rec,Rec,"July 30, 2022",N/A,N/A,N/A
+,"I, Rigoberta Menchu",Rigoberta Menchu,South American History,Yes,Yes,English,289,Chicago,Yes,Rec,Yes,Rec,"August 31, 2022","November 13, 2022",74,0.202739726
+2,The Last Empress,Anchee Min,Fiction,No,Yes,English,308,Boston,Yes,Rec,Rec,Rec,"September 6, 2022",N/A,N/A,N/A
+,Children Of Ash And Elm,Niel Price,History,No,Yes,English,509,Boston,Yes,Rec,Yes,Rec,"October 5, 2022",N/A,N/A,N/A
+,Two Lives,Vikram Seth,WWII,No,Yes,English,503,Chicago,Yes,Rec,Rec,Yes,"January 1, 2016",N/A,N/A,N/A
+,The Search For Modern China,Jonathan D. Spence,China,No,Yes,English,747,Chicago,Yes,Rec,Rec,Yes,"May 5, 2021",N/A,N/A,N/A
+,Phasers On Stun!,Ryan Britt,Star Trek,No,Yes,English,336,Boston,Yes,Rec,Rec,Yes,"July 13, 2022",N/A,N/A,N/A
+,The Hundred Secret Senses,Amy Tan,Fiction,No,Yes,English,358,Boston,Yes,Rec,Rec,Yes,"July 30, 2022",N/A,N/A,N/A
+,Lock The Doors,Vincent Ralph,Fiction,No,Yes,English,388,Chicago,Yes,Rec,Yes,Yes,"May 29, 2022",N/A,N/A,N/A
+,I Am Not Your Perfect Mexican Daughter,Erika L. Sanchez,Fiction,No,Yes,English,340,Chicago,Yes,Rec,Yes,Yes,"July 28, 0202",N/A,N/A,N/A
+,Victoria,Daisy Goodwin,Fiction,No,Yes,English,404,Chicago,Yes,Rec,Yes,Yes,"July 20, 2015",N/A,N/A,N/A
+,The Duchess,Amanda Foreman,Biography,No,Yes,English,385,Chicago,Yes,Rec,Rec,Yes,"January 1, 2016",N/A,N/A,N/A
+2,Eldest,Christopher Paolini,Fiction,No,Yes,Spanish,824,Chicago,Yes!,Yes,Rec,Yes,"January 1, 2016",N/A,N/A,N/A
+2,The Da Vinci Code,Dab Brown,Fiction,No,Yes,English,454,Chicago,Yes,Yes,Yes,Yes,"January 1, 2016",N/A,N/A,N/A
+,Team Of Rivals,Doris Kearns Goodwin,Civil War,No,Yes,English,757,Chicago,Yes,Yes*,Yes,Yes,"January 1, 2016",N/A,N/A,N/A
+1,Gods And Generals,Jeff Shaara,Fiction,No,Yes,English,498,Chicago,Yes,Rec,Yes,Yes,"January 1, 2016",N/A,N/A,N/A
+,Anne Frank Remembered,Miep Gies with Alison Leslie Gold,WWII,No,Yes,English,252,Chicago,Yes,Rec,Yes,Yes,"January 1, 2016",N/A,N/A,N/A
+1,Ross Poldark,Winston Graham,Fiction,No,Yes,English,376,Chicago,Yes,Rec,Yes,Yes,"January 1, 2016",N/A,N/A,N/A
+,Muhammad A Prophet For Our Times,Karen Armstrong,Religion,No,Yes,English,214,Chicago,Yes,Rec,Rec,Yes,"August 1, 2018",N/A,N/A,N/A
+,The Ugly Renaissance,Alexander Lee,History,No,Yes,English,354,Chicago,Yes,Rec,Rec,Yes,"July 1, 2019",N/A,N/A,N/A
+,127 Hours,Aron Ralston,Memior,No,Yes,English,400,Chicago,Yes,Rec,Rec,Yes,"July 1, 2019",N/A,N/A,N/A
+,The Fabric Of The Cosmos,Brian Greene,Science,No,Yes,English,493,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019",N/A,N/A,N/A
+,Don Quixote,Cervantes,Classic,No,Yes,English,942,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019",N/A,N/A,N/A
+,House Of Rain,Craig Childs,Native Americans,No,Yes,English,445,Chicago,Yes,Rec,Rec,Yes,"July 1, 2019",N/A,N/A,N/A
+,Flags Of Our Fathers,James Bradley,WWII,No,Yes,English,538,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019",N/A,N/A,N/A
+,Apollo's Angels,Jennifer Homans,Dance,No,Yes,English,550,Chicago,Yes,Rec,Rec,Yes,"July 1, 2019",N/A,N/A,N/A
+,Gulliver's Travels,Jonathan Swift,Classic,No,Yes,English,295,Chicago,Yes!,Rec,Yes,Yes,"July 1, 2019",N/A,N/A,N/A
+,When Montezuma Met Cortes,Matthew Restall,Native Americans,No,Yes,English,354,Boston,Yes!,Rec,Rec,Yes,"July 1, 2019",N/A,N/A,N/A
+,Infamy,Richard Reeves,WWII,No,Yes,English,285,Chicago,Yes,Rec,Rec,Yes,"July 1, 2019",N/A,N/A,N/A
+,The Killing Of Crazy Horse,Thomas Powers,Native Americans,No,Yes,English,467,Chicago,Yes,Rec,Rec,Yes,"July 1, 2019",N/A,N/A,N/A
+,Leonard,Willian Shatner & David Fisher,Star Trek,No,Yes,English,275,Chicago,Yes,Rec,Yes,Yes,"July 20, 2019",N/A,N/A,N/A
+,Great Expectations,Charles Dickens,Classic,No,Yes,English,493,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,Founding Mothers,Cokie Roberts,American History,No,Yes,English,278,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,The Zookeeper's Wife,Diane Ackerman,WWII,No,Yes,English,323,Chicago,Yes!,Yes,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,The Borgias,G.J. Meyer,Biography,No,Yes,English,431,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,Through A Window,Jane Goodall,Science,No,Yes,English,291,Chicago,Yes,Rec,Rec,Yes,"October 17, 2019",N/A,N/A,N/A
+,Collapse,Jared Diamond,Anthropology,Yes,Yes,English,525,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019","November 4, 2022",1114,3.052054795
+,Grapes Of Wrath,John Steinbeck,Classic,No,Yes,English,581,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,Fly Girls,Keith O'Brien,History,No,Yes,English,265,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,Gone With The Wind,Margaret Mitchell,Classic,No,Yes,English,1024,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,The Scarlet Letter,Nathaniel Hawthorne,Classic,No,Yes,English,290,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019",N/A,N/A,N/A
+,Equality For Women = Prosperity For All,Augusto Lopez-Claros & Bahiyyih Nakhjavani,Gender Studies,No,Yes,English,253,Chicago,Yes,Rec,Rec,Yes,"January 13, 2020",N/A,N/A,N/A
+,The Origin of Species,Charles Darwin,Science,No,Yes,English,384,Chicago,Yes,Rec,Yes,Yes,"February 20, 2020",N/A,N/A,N/A
+,A Tale Of Two Cities,Charles Dickens,Classic,No,Yes,English,397,Chicago,Yes,Yes,Yes,Yes,"February 20, 2020",N/A,N/A,N/A
+,Che Guevara,Jon Lee Anderson,South American History,No,Yes,English,754,Chicago,Yes,Rec,Rec,Yes,"February 20, 2020",N/A,N/A,N/A
+,Seven Skeletons,Lydia Pyne,Anthropology,No,Yes,English,246,Chicago,Yes,Rec,Yes,Yes,"February 20, 2020",N/A,N/A,N/A
+1,Dances with Wolves,Michael Blake,Fiction,No,Yes,English,320,Chicago,Yes,Rec,Yes,Yes,"February 20, 2020",N/A,N/A,N/A
+,Founder's Son,Richard Brookhiser,Civil War,No,Yes,English,305,Chicago,Yes,Rec,Rec,Yes,"February 20, 2020",N/A,N/A,N/A
+,The Man Who Touched His Own Heart,Rob Dunn,Science,No,Yes,English,329,Chicago,Yes,Rec,Rec,Yes,"February 20, 2020",N/A,N/A,N/A
+,My Beloved World,Sonia Sotomayor,Memior,No,Yes,English,302,Chicago,Yes,Yes,Yes,Yes,"February 20, 2020",N/A,N/A,N/A
+,Schindler's List,Thomas Keneally,Fiction,No,Yes,English,397,Chicago,Yes,Rec,Yes,Yes,"February 20, 2020",N/A,N/A,N/A
+,A Confederacy of Dunces,John Kennedy Toole,Classic,No,Yes,English,462,Chicago,Yes,Rec,Yes,Yes,"March 1, 2020",N/A,N/A,N/A
+,Devolver Al Remitente,Julia Alvarez,Fiction,No,Yes,Spanish,349,Chicago,Yes,Yes,Rec,Yes,"March 1, 2020",N/A,N/A,N/A
+,The Orchid Thief,Susan Orlean,History,No,Yes,English,282,Chicago,Yes,Rec,Yes,Yes,"March 31, 2020",N/A,N/A,N/A
+3,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,Fiction,No,Yes,English,563,Chicago,Yes,Yes,Yes,Yes,"April 25, 2020",N/A,N/A,N/A
+,The Creative Spark,Agustin Fuentes,Anthropology,No,Yes,English,292,Chicago,Yes!,Rec,Rec,Yes,"July 20, 2020",N/A,N/A,N/A
+,Scrappy Little Nobody,Anna Kendrick,Memior,No,Yes,English,271,Chicago,Yes,Yes,Yes,Yes,"July 20, 2020",N/A,N/A,N/A
+,Killers of the Flower Moon,David Grann,American History,No,Yes,English,321,Chicago,Yes,Yes,Yes,Yes,"July 20, 2020",N/A,N/A,N/A
+,The Catalogue of Shipwrecked Books,Edward Wilson-Lee,History,No,Yes,English,339,Chicago,Yes,Rec,Yes,Yes,"July 20, 2020",N/A,N/A,N/A
+,Rosemary,Kate Clifforfd Larson,Biography,No,Yes,English,231,Chicago,Yes!,Yes,Yes,Yes,"July 20, 2020",N/A,N/A,N/A
+,Moonglow,Michael Chabon,Fiction,No,Yes,English,430,Chicago,Yes,Yes,Yes,Yes,"July 20, 2020",N/A,N/A,N/A
+1,The Tale of Genji vol 1,Murasaki Shikibu,Classic,No,Yes,English,521,Chicago,Yes,Rec,Rec,Yes,"July 20, 2020",N/A,N/A,N/A
+2,The Tale of Genji vol 2,Murasaki Shikibu,Classic,No,Yes,English,569,Chicago,Yes,Rec,Rec,Yes,"July 20, 2020",N/A,N/A,N/A
+,Catherine the Great,Robert K. Massie,Biography,No,Yes,English,574,Chicago,Yes,Yes,Yes,Yes,"July 20, 2020",N/A,N/A,N/A
+,A Long Way Home,Saroo Brierley,Memior,No,Yes,English,273,Chicago,Yes!,Rec,Yes,Yes,"July 20, 2020",N/A,N/A,N/A
+,Women's Work,Megan K. Stack,Memior,No,Yes,English,352,Chicago,Yes,Rec,Rec,Yes,"October 1, 2020",N/A,N/A,N/A
+,Wuthering Heights,Emily Bronte,Classic,No,Yes,English,334,Chicago,Yes,Rec,Yes,Yes,"October 15, 2020",N/A,N/A,N/A
+,Crime And Punishment,Fyodor Dostoevsky,Classic,No,Yes,English,671,Chicago,Yes,Rec,Yes,Yes,"October 15, 2020",N/A,N/A,N/A
+,Dreams Of Joy,Lisa See,Fiction,No,Yes,English,354,Chicago,Yes,Yes,Yes,Yes,"October 27, 2020",N/A,N/A,N/A
+,Shanghai Girls,Lisa See,Fiction,No,Yes,English,309,Chicago,Yes,Yes,Yes,Yes,"October 27, 2020",N/A,N/A,N/A
+11,Prince Lestat,Anne Rice,Fiction,No,Yes,English,451,Chicago,Yes,Yes,Yes,Yes,"November 15, 2020",N/A,N/A,N/A
+3,Queen Of The Damned,Anne Rice,Fiction,No,Yes,English,491,Chicago,Yes,Rec,Yes,Yes,"November 15, 2020",N/A,N/A,N/A
+2,The Vampire Lestat,Anne Rice,Fiction,No,Yes,English,550,Chicago,Yes,Rec,Yes,Yes,"November 15, 2020",N/A,N/A,N/A
+,The Time Traveler's Wife,Audry Niffenegger,Fiction,No,Yes,English,531,Chicago,Yes,Rec,Yes,Yes,"November 15, 2020",N/A,N/A,N/A
+,Dreams From My Father,Barack Obama,Memior,No,Yes,English,453,Chicago,Yes,Rec,Yes,Yes,"November 15, 2020",N/A,N/A,N/A
+1,The Good Earth,Pearl S. Buck,Fiction,No,Yes,English,418,Chicago,Yes,Rec,Yes,Yes,"January 4, 2021",N/A,N/A,N/A
+1,American Gods,Neil Gaiman,Fiction,No,Yes,English,541,Chicago,Yes,Yes,Yes,Yes,"February 20, 2021",N/A,N/A,N/A
+,Brain On Fire,Susannah Cahalan,Memior,No,Yes,English,250,Chicago,Yes,Yes,Yes,Yes,"March 23, 2021",N/A,N/A,N/A
+,1493,Charels C. Mann,Native Americans,No,Yes,English,521,Chicago,Yes,Yes,Yes,Yes,"May 5, 2021",N/A,N/A,N/A
+1,The Three Body Problem,Cixin Liu,Fiction,No,Yes,English,416,Chicago,Yes,Rec,Yes,Yes,"May 5, 2021",N/A,N/A,N/A
+,The Bluest Eye,Toni Morrison,Classic,No,Yes,English,206,Chicago,Yes,Yes,Yes,Yes,"May 5, 2021",N/A,N/A,N/A
+6,The Dispossessed,Ursula K. Le Guin,Fiction,No,Yes,English,387,Chicago,Yes,Rec,Yes,Yes,"May 5, 2021",N/A,N/A,N/A
+,On Gold Mountain,Lisa See,China,No,Yes,English,385,Chicago,Yes,Rec,Yes,Yes,"May 7, 2021",N/A,N/A,N/A
+1,The Bone Witch,Rin Chupeco,Fiction,No,Yes,English,425,Chicago,Yes!,Yes,Yes,Yes,"May 13, 2021",N/A,N/A,N/A
+,The Art Of Happiness,Dalai Lama & Howard C. Cutler,Religion,No,Yes,English,319,Chicago,Yes,Rec,Yes,Yes,"June 1, 2021",N/A,N/A,N/A
+,The Art Of War,Sun Tzu,China,No,Yes,English,128,Chicago,Yes!,Yes,Yes,Yes,"June 1, 2021",N/A,N/A,N/A
+5,Tales From Earthsea,Ursula K. Le Guin,Fiction,No,Yes,English,280,Chicago,Yes,Yes,Yes,Yes,"June 1, 2021",N/A,N/A,N/A
+,Imagined Communities,Benedict Anderson,Anthropology,No,Yes,English,206,Chicago,Yes,Rec,Rec,Yes,"July 7, 2021",N/A,N/A,N/A
+1,Luck in the Shadows,Lynn Flewelling,Fiction,No,Yes,English,479,Chicago,Yes,Rec,Rec,Yes,"July 7, 2021",N/A,N/A,N/A
+1,Tiger Eye,Marjorie M. Liu,Fiction,No,Yes,English,373,Chicago,Yes,Rec,Rec,Yes,"July 7, 2021",N/A,N/A,N/A
+,A Long Way Gone,Ishmael Beah,Memior,No,Yes,English,218,Chicago,Yes,Rec,Yes,Yes,"July 20, 2021",N/A,N/A,N/A
+,Testosterone Rex,Cerdelia Fine,Science,No,Yes,English,195,Chicago,Yes,Rec,Rec,Yes,"September 1, 2021",N/A,N/A,N/A
+,From The Ruins of Empire,Pankaj Mishra,History,No,Yes,English,320,Chicago,Yes,Rec,Rec,Yes,"September 1, 2021",N/A,N/A,N/A
+,The Children's Blizzard,David Laskin,History,No,Yes,English,271,Chicago,Yes,Yes,Yes,Yes,"November 9, 2021",N/A,N/A,N/A
+,Admissions,Henry Marsh,Science,No,Yes,English,270,Chicago,Yes,Rec,Yes,Yes,"November 9, 2021",N/A,N/A,N/A
+,In The Heart Of The Sea,Nathaniel Philbrick,History,No,Yes,English,238,Chicago,Yes,Yes,Yes,Yes,"November 9, 2021",N/A,N/A,N/A
+,The 1619 Project,Nikole Hannah-Jones,Race Relations,No,Yes,English,480,Chicago,Yes,Yes,Yes,Yes,"November 25, 2021",N/A,N/A,N/A
+,Sex With Presidents,Eleanor Herman,American History,No,Yes,English,384,Chicago,Yes,Rec,Rec,Yes,"December 25, 2021",N/A,N/A,N/A
+,Below The Edge Of Darkness,Dr. Edith Widder,Science,No,Yes,English,302,Chicago,Yes,Rec,Yes,Yes,"December 28, 2021",N/A,N/A,N/A
+3,The Burning God,R.F. Kuang,Fiction,No,Yes,English,614,Chicago,Yes,Yes,Yes,Yes,"December 28, 2021",N/A,N/A,N/A
+2,The Dragon Republic,R.F. Kuang,Fiction,No,Yes,English,654,Chicago,Yes,Yes,Yes,Yes,"December 28, 2021",N/A,N/A,N/A
+,The Devil's Highway,Luis Alberto Urrea,Modern History,No,Yes,English,235,Chicago,Yes,Rec,Yes,Yes,"March 3, 2022",N/A,N/A,N/A
+,Cod,Mark Kurlansky,History,No,Yes,English,233,Chicago,Yes,Rec,Yes,Yes,"March 3, 2022",N/A,N/A,N/A
+,The Water Kingdom,Philip Ball,China,No,Yes,English,314,Chicago,Yes,Rec,Rec,Yes,"March 3, 2022",N/A,N/A,N/A
+,"The Fork, The Witch, And The Worm",Christopher Paolini,Fiction,No,Yes,English,269,Chicago,Yes,Yes,Yes,Yes,"March 9, 2022",N/A,N/A,N/A
+,Room,Emma Donoghue,Fiction,No,Yes,English,321,Chicago,Yes,Yes,Yes,Yes,"March 9, 2022",N/A,N/A,N/A
+,The Book Of Longings,Sue Monk Kidd,Fiction,No,Yes,English,407,Chicago,Yes,Yes,Yes,Yes,"March 9, 2022",N/A,N/A,N/A
+1,Foundation,Issac Asimov,Fiction,No,Yes,English,244,Chicago,Yes,Rec,Yes,Yes,"March 15, 2022",N/A,N/A,N/A
+,The Terror,Dan Simmons,Fiction,No,Yes,English,766,Chicago,Yes,Yes,Yes,Yes,"April 7, 2022",N/A,N/A,N/A
+,I Contain Multitudes,Ed Yong,Science,No,Yes,English,264,Chicago,Yes!,Rec,Yes,Yes,"April 7, 2022",N/A,N/A,N/A
+,The Samurai's Garden,Gail Tsukiyama,Fiction,No,Yes,English,211,Chicago,Yes,Rec,Yes,Yes,"April 7, 2022",N/A,N/A,N/A
+,The Beautiful Ones,Silvia Moreno-Garcia,Fiction,No,Yes,English,292,Chicago,Yes,Yes,Yes,Yes,"April 7, 2022",N/A,N/A,N/A
+,Stony The Road,Henry Louis Gates Jr.,Race Relations,No,Yes,English,256,Chicago,Yes,Rec,Yes,Yes,"April 30, 2022",N/A,N/A,N/A
+,The Color Of Law,Richard Rothstein,Race Relations,No,Yes,English,217,Chicago,Yes,Rec,Yes,Yes,"April 30, 2022",N/A,N/A,N/A
+,The Taker,Alma Katsu,Fiction,No,Yes,English,436,Chicago,Yes,Rec,Yes,Yes,"May 3, 2022",N/A,N/A,N/A
+1,Rebel Of The Sands,Alwyn Hamilton,Fiction,No,Yes,English,314,Chicago,Yes,Rec,Yes,Yes,"May 3, 2022",N/A,N/A,N/A
+,We Should All Be Feminists,Chimamanda Ngozi Adichie,Gender Studies,No,Yes,English,48,Chicago,Yes,Rec,Yes,Yes,"May 3, 2022",N/A,N/A,N/A
+1,Raybearer,Jordan Ifueko,Fiction,No,Yes,English,343,Chicago,Yes,Rec,Yes,Yes,"May 3, 2022",N/A,N/A,N/A
+1,Flower Net,Lisa See,Fiction,No,Yes,English,333,Chicago,Yes,Rec,Rec,Yes,"May 3, 2022",N/A,N/A,N/A
+3,Dragon Bones,Lisa See,Fiction,No,Yes,English,343,Chicago,Yes,Rec,Yes,Yes,"May 3, 2022",N/A,N/A,N/A
+2,The Interior,Lisa See,Fiction,No,Yes,English,388,Chicago,Yes,Rec,Yes,Yes,"May 3, 2022",N/A,N/A,N/A
+,Imperial Woman,Pearl S. Buck,Fiction,No,Yes,English,376,Chicago,Yes,Rec,Yes,Yes,"May 3, 2022",N/A,N/A,N/A
+,The Bonesetter's Daughter,Amy Tan,Fiction,No,Yes,English,353,Chicago,Yes,Rec,Yes,Yes,"May 6, 2022",N/A,N/A,N/A
+1,A Memory Called Empire,Arkady Martine,Fiction,No,Yes,English,448,Chicago,Yes,Rec,Yes,Yes,"May 6, 2022",N/A,N/A,N/A
+,Dial A For Aunties,Jesse Q. Sutanto,Fiction,No,Yes,English,295,Chicago,Yes,Yes,Yes,Yes,"May 6, 2022",N/A,N/A,N/A
+1,Black Leopard Red Wolf,Marlon James,Fiction,No,Yes,English,620,Chicago,Yes,Yes,Yes,Yes,"May 6, 2022",N/A,N/A,N/A
+,Under A Painted Sky,Stacey Lee,Fiction,No,Yes,English,370,Chicago,Yes,Rec,Yes,Yes,"May 6, 2022",N/A,N/A,N/A
+,All That She Carried,Tiya Miles,Race Relations,No,Yes,English,304,Chicago,Yes,Yes,Yes,Yes,"May 6, 2022",N/A,N/A,N/A
+,"Detransition, Baby",Torrey Peters,Fiction,No,Yes,English,335,Chicago,Yes,Rec,Yes,Yes,"May 6, 2022",N/A,N/A,N/A
+,Where The Crawdads Sing,Delia Owens,Fiction,Yes,Yes,English,368,Chicago,Yes,Yes,Yes,Yes,"May 18, 2022","October 22, 2022",157,0.4301369863
+,The Dictionary Of Lost Words,Pip Williams,Fiction,No,Yes,English,359,Chicago,Yes,Yes,Yes,Yes,"May 18, 2022",N/A,N/A,N/A
+,The Lathe Of Heaven,Ursula K. Le Guin,Fiction,No,Yes,English,184,Chicago,Yes,Rec,Rec,Yes,"May 18, 2022",N/A,N/A,N/A
+1,Jade City,Fonda Lee,Fiction,No,Yes,English,495,Chicago,Yes,Rec,Yes,Yes,"May 23, 2022",N/A,N/A,N/A
+1,The Jasmine Throne,Tasha Suri,Fiction,No,Yes,English,533,Chicago,Yes,Yes,Yes,Yes,"May 23, 2022",N/A,N/A,N/A
+1,The Henna Artist,Alka Joshi,Fiction,No,Yes,English,342,Chicago,Yes,Yes,Yes,Yes,"May 29, 2022",N/A,N/A,N/A
+1,Spin The Dawn,Elizabeth Lim,Fiction,No,Yes,English,387,Chicago,Yes,Rec,Yes,Yes,"May 29, 2022",N/A,N/A,N/A
+1,Malice,Heather Walter,Fiction,No,Yes,English,464,Chicago,Yes,Rec,Yes,Yes,"May 29, 2022",N/A,N/A,N/A
+1,Neon Gods,Katee Robert,Fiction,No,Yes,English,377,Chicago,Yes,Rec,Yes,Yes,"May 29, 2022",N/A,N/A,N/A
+1,The City Of Brass,S.A. Chakraborty,Fiction,No,Yes,English,526,Chicago,Yes,Rec,Yes,Yes,"May 29, 2022",N/A,N/A,N/A
+,"Big Sister, Little Sister, Red Sister",Jung Chang,China,No,Yes,English,316,Chicago,Yes,Rec,Yes,Yes,"May 31, 2022",N/A,N/A,N/A
+1,The Fifth Season,N.K. Jemisin,Fiction,No,Yes,English,449,Chicago,Yes,Yes,Yes,Yes,"May 31, 2022",N/A,N/A,N/A
+,The Chosen And The Beautiful,Nghi Vo,Fiction,No,Yes,English,260,Chicago,Yes,Rec,Yes,Yes,"May 31, 2022",N/A,N/A,N/A
+,The Golden Thread,Kassia St. Clair,History,No,Yes,English,294,Chicago,Yes,Rec,Yes,Yes,"June 2, 2022",N/A,N/A,N/A
+,Disability Visibility,Alice Wong,History,No,Yes,English,275,Chicago,Yes,Rec,Yes,Yes,"June 7, 2022",N/A,N/A,N/A
+,The Last Night At The Telegraph Club,Malinda Lo,Fiction,No,Yes,English,394,Chicago,Yes,Yes,Yes,Yes,"June 7, 2022",N/A,N/A,N/A
+,Lavinia,Ursula K. Le Guin,Fiction,No,Yes,English,279,Chicago,Yes,Rec,Yes,Yes,"June 7, 2022",N/A,N/A,N/A
+,To Paradise,Hanya Yanagihara,Fiction,No,Yes,English,704,Chicago,Yes,Yes,Yes,Yes,"June 9, 2022",N/A,N/A,N/A
+,Between The World And Me,Ta-Nehisi Coates,Race Relations,No,Yes,English,152,Chicago,Yes,Yes,Yes,Yes,"June 18, 2022",N/A,N/A,N/A
+1,Wicked Fox,Nat Cho,Fiction,No,Yes,English,420,Chicago,Yes,Rec,Yes,Yes,"June 27, 2022",N/A,N/A,N/A
+1,Crown Of Feathers,Nicki Pau Preto,Fiction,No,Yes,English,477,Chicago,Yes,Yes,Yes,Yes,"June 27, 2022",N/A,N/A,N/A
+,Phoenix Extravagant,Yoon Ha Lee,Fiction,No,Yes,English,353,Chicago,Yes,Rec,Yes,Yes,"June 27, 2022",N/A,N/A,N/A
+,The Dew Breaker,Edwidge Danticat,Fiction,No,Yes,English,242,Chicago,Yes,Rec,Rec,Yes,"July 2, 2022",N/A,N/A,N/A
+,Never Caught,Erica Armstrong Dunbar,American History,No,Yes,English,197,Chicago,Yes,Rec,Yes,Yes,"July 2, 2022",N/A,N/A,N/A
+,In Small Things Forgotten,James Deetz,Anthropology,No,Yes,English,260,Chicago,Yes,Rec,Rec,Yes,"July 2, 2022",N/A,N/A,N/A
+,The Magus,John Fowles,Fiction,No,Yes,English,668,Chicago,Yes,Rec,Yes,Yes,"July 2, 2022",N/A,N/A,N/A
+1,The City We Became,N.K. Jemisin,Fiction,No,Yes,English,434,Chicago,Yes,Yes,Yes,Yes,"July 2, 2022",N/A,N/A,N/A
+,The Instant Economist,Tim Taylor,Business,No,Yes,English,250,Chicago,Yes,Rec,Rec,Yes,"July 2, 2022",N/A,N/A,N/A
+,A History Of The World In 6 Glasses,Tom Standage,History,No,Yes,English,274,Chicago,Yes,Rec,Yes,Yes,"July 2, 2022",N/A,N/A,N/A
+,The Map Of Salt And Stars,Zeyn Joukhadar,Fiction,No,Yes,English,352,Boston,Yes,Rec,Yes,Yes,"July 2, 2022",N/A,N/A,N/A
+,This Is How You Lose The Time War,Amal El-Mohar & Max Gladstone,Fiction,No,Yes,English,198,Chicago,Yes,Yes,Yes,Yes,"July 3, 2022",N/A,N/A,N/A
+1,The Unbroken,C.L. Clark,Fiction,No,Yes,English,486,Chicago,Yes,Rec,Yes,Yes,"July 3, 2022",N/A,N/A,N/A
+,The Crooked Path To Abolition,James Oakes,Civil War,Yes,Yes,English,204,Chicago,Yes,Rec,Yes,Yes,"July 3, 2022","October 31, 2022",120,0.3287671233
+1,Son Of The Storm,Suyi Davies Okungbowa,Fiction,No,Yes,English,446,Chicago,Yes,Rec,Yes,Yes,"July 3, 2022",N/A,N/A,N/A
+,Strange Beasts Of China,Yan Ge,Fiction,No,Yes,English,232,Chicago,Yes,Rec,Yes,Yes,"July 3, 2022",N/A,N/A,N/A
+,A Lady For A Duke,Alexis Hall,Fiction,No,Yes,English,449,Boston,Yes,Rec,Yes,Yes,"July 13, 2022",N/A,N/A,N/A
+,Master Of Poisons,Andrea Hairston,Fiction,No,Yes,English,507,Chicago,Yes,Rec,Yes,Yes,"July 13, 2022",N/A,N/A,N/A
+,Different,Frans de Waal,Gender Studies,No,Yes,English,317,Chicago,Yes,Rec,Rec,Yes,"July 13, 2022",N/A,N/A,N/A
+,Rogues,Patrick Radden Keefe,History,No,Yes,English,344,Boston,Yes,Yes,Yes,Yes,"July 13, 2022",N/A,N/A,N/A
+,Black Water Sister,Zen Cho,Fiction,No,Yes,English,367,Boston,Yes,Rec,Yes,Yes,"July 13, 2022",N/A,N/A,N/A
+1,Gilded,Marissa Meyer,Fiction,No,Yes,English,500,Boston,Yes,Yes,Yes,Yes,"July 18, 2022",N/A,N/A,N/A
+,The New Jim Crow,Michelle Alexander,Race Relations,No,Yes,English,261,Chicago,Yes,Yes,Yes,Yes,"July 18, 2022",N/A,N/A,N/A
+,The Paper Menagerie,Ken Liu,Fiction,No,Yes,English,450,Boston,Yes,Rec,Yes,Yes,"July 23, 2022",N/A,N/A,N/A
+,Half Of A Yellow Sun,Chimamanda Ngozi Adichie,Fiction,No,Yes,English,433,Chicago,Yes,Yes,Yes,Yes,"July 28, 2022",N/A,N/A,N/A
+1,Crank,Ellen Hopkins,Fiction,No,Yes,English,537,Chicago,Yes,Yes,Yes,Yes,"July 28, 2022",N/A,N/A,N/A
+,The Phantom Of The Opera,Gaston Leroux,Classic,No,Yes,English,270,Chicago,Yes,Rec,Yes,Yes,"July 28, 2022",N/A,N/A,N/A
+,And The Mountains Echoed,Khaled Hosseini,Fiction,No,Yes,English,402,Chicago,Yes,Rec,Yes,Yes,"July 28, 2022",N/A,N/A,N/A
+,The Man Who Loved China,Simon Winchester,China,No,Yes,English,265,Chicago,Yes,Rec,Yes,Yes,"July 28, 2022",N/A,N/A,N/A
+,Black Earth,Timothy Snyder,WWII,No,Yes,English,344,Chicago,Yes,Rec,Yes,Yes,"July 28, 2022",N/A,N/A,N/A
+,Once There Were Wolves,Charlotte McConaghy,Fiction,Yes,Yes,English,256,Boston,Yes,Yes,Yes,Yes,"July 30, 2022","October 22, 2022",84,0.2301369863
+,Teacher Man,Frank McCourt,Teaching,No,Yes,English,258,Boston,Yes,Rec,Yes,Yes,"July 30, 2022",N/A,N/A,N/A
+,Three Cups Of Tea,Greg Mortenson & David Oliver Relin,Memior,No,Yes,English,332,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022",N/A,N/A,N/A
+,These Truths,Jill Lepore,American History,No,Yes,English,789,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022",N/A,N/A,N/A
+,One Thousand White Women,Jim Fergus,Fiction,No,Yes,English,302,Boston,Yes,Rec,Yes,Yes,"July 30, 2022",N/A,N/A,N/A
+,The Invention Of Wings,Sue Monk Kidd,Fiction,No,Yes,English,359,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022",N/A,N/A,N/A
+,King Lear,William Shakespeare,Play,No,Yes,English,261,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022",N/A,N/A,N/A
+,The Long Way To A Small Angry Planet,Becky Chambers,Fiction,No,Yes,English,438,Boston,Yes,Rec,Yes,Yes,"August 4, 2022",N/A,N/A,N/A
+,The Tombs Of Atuan,Ursula K. Le Guin,Fiction,No,Yes,English,212,Boston,Yes,Yes,Yes,Yes,"August 20, 2022",N/A,N/A,N/A
+0,The Hobbit,J.R.R. Tolkin,Fiction,No,Yes,English,305,Boston,Yes,Yes,Yes,Yes,"August 23, 2022",N/A,N/A,N/A
+1,The Fellowship Of The Ring,J.R.R. Tolkin,Fiction,No,Yes,English,458,Boston,Yes,Yes,Yes,Yes,"August 23, 2022",N/A,N/A,N/A
+2,The Two Towers,J.R.R. Tolkin,Fiction,No,Yes,English,398,Boston,Yes,Yes,Yes,Yes,"August 23, 2022",N/A,N/A,N/A
+3,The Return Of The King,J.R.R. Tolkin,Fiction,No,Yes,English,340,Boston,Yes,Yes,Yes,Yes,"August 23, 2022",N/A,N/A,N/A
+1,The Rise Of Kyoshi,F.C. Lee,Fiction,No,Yes,English,442,Chicago,Yes,Yes,Yes,Yes,"September 1, 2022",N/A,N/A,N/A
+,In Deeper Waters,F.T. Lukens,Fiction,No,Yes,English,303,Chicago,Yes,Rec,Yes,Yes,"September 1, 2022",N/A,N/A,N/A
+,A Long Walk To Water,Linda Sue Park,Fiction,No,Yes,English,117,Boston,Yes,Yes,Yes,Yes,"September 2, 2022",N/A,N/A,N/A
+,A Thousand Steps Into Night,Traci Chee,Fiction,No,Yes,English,370,Boston,Yes,Rec,Rec,Yes,"September 6, 2022",N/A,N/A,N/A
+1,The Empress Of Salt And Fortune,Nghi Vo,Fiction,No,Yes,English,118,Boston,Yes,Rec,Yes,Yes,"September 7, 2022",N/A,N/A,N/A
+,Covered With Night,Nicole Eustace,Native Americans,No,Yes,English,337,Boston,Yes,Yes,Yes,Yes,"September 7, 2022",N/A,N/A,N/A
+,An Afro-Indigenous History Of The United States,Kyle T. Mays,American History,No,Yes,English,192,Boston,Yes,Rec,Yes,Yes,"September 7, 2022",N/A,N/A,N/A
+1,Binti,Nnedi Okorafor,Fiction,No,Yes,English,90,Boston,Yes,Yes,Yes,Yes,"September 8, 2022",N/A,N/A,N/A
+3,Nona The Ninth,Tamsyn Muir,Fiction,No,Yes,English,477,Boston,Yes,Rec,Yes,Yes,"September 13, 2022",N/A,N/A,N/A
+3,The Dawn Of Yangchen,F.C. Lee,Fiction,No,Yes,English,324,Boston,Yes,Rec,Yes,Yes,"September 17, 2022",N/A,N/A,N/A
+,The Sum Of Us,Heather Mcghee,Race Relations,No,Yes,English,285,Boston,Yes,Yes,Yes,Yes,"October 1, 2022",N/A,N/A,N/A
+5,Foundation And Earth,Issac Asimov,Fiction,No,Yes,English,411,Boston,Yes,Rec,Yes,Yes,"October 5, 2022",N/A,N/A,N/A
+1,Parable Of The Sower,Octavia E. Butler,Fiction,No,Yes,English,329,Boston,Yes,Rec,Yes,Yes,"October 5, 2022",N/A,N/A,N/A
+,What Moves The Dead,T. Kingfisher,Fiction,Yes,Yes,English,158,Boston,Yes,Yes,Yes,Yes,"October 5, 2022","October 31, 2022",26,0.07123287671
+,Good Omens,Terry Pratchett & Neil Gaiman,Fiction,No,Yes,English,474,Boston,Yes,Yes,Yes,Yes,"October 5, 2022",N/A,N/A,N/A
+,Lore,Alexandra Bracken,Fiction,No,Yes,English,466,Boston,Yes,Rec,Yes,Yes,"October 10, 2022",N/A,N/A,N/A
+,The Love Songs of W.E.B. Du Bois,Honorée Fanonne Jeffers,Fiction,No,Yes,English,790,Boston,Yes,Yes,Yes,Yes,"October 10, 2022",N/A,N/A,N/A
+4,Foundation's Edge,Issac Asimov,Fiction,No,Yes,English,377,Boston,Yes,Rec,Yes,Yes,"October 10, 2022",N/A,N/A,N/A
+,The Anomaly,Hervé Le Tellier,Fiction,No,Yes,English,391,Boston,Yes,Yes,Yes,Yes,"October 10, 2022",N/A,N/A,N/A
+,"Girl, Woman, Other",Bernardine Evaristo,Fiction,No,Yes,English,452,Boston,Yes,Rec,Yes,Yes,"October 10, 2022",N/A,N/A,N/A
+,Hamnet,Maggie O'Farrell,Fiction,No,Yes,English,305,Boston,Yes,Yes,Yes,Yes,"October 10, 2022",N/A,N/A,N/A
+,The Genesis of Misery,Neon Yang,Fiction,No,Yes,English,417,Boston,Yes,Rec,Yes,Yes,"October 18, 2022",N/A,N/A,N/A
+,Prince Albert,A.N. Wilson,Biography,No,Yes,English,390,Chicago,Yes,Rec,Rec,Yes,,N/A,N/A,N/A
+,Imbeciles,Adam Cohen,Science,No,Yes,English,323,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Complications,Atul Gawande,Science,No,Yes,English,252,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Horizon,Barry Lopez,History,No,Yes,English,512,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,The Plague Cycle,Charles Kenny,Science,No,Yes,English,237,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,To Hold Up The Sky,Cixin Liu,Fiction,No,Yes,English,334,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,The Tangled Tree,David Quammen,Science,No,Yes,English,386,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Frederick Douglass,David W. Blight,Civil War,No,Yes,English,764,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Unorthodox,Deborah Feldman,Memior,No,Yes,English,256,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Theodore Rex,Edmund Morris,American History,No,Yes,English,555,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,China,Edward Rutherfurd,Fiction,No,Yes,English,764,Chicago,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,She Came To Slay,Erica Armstrong Dunbar,American History,No,Yes,English,139,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,The Witch's Heart,Genevieve Gornichec,Fiction,No,Yes,English,347,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Gone Girl,Gillian Flynn,Fiction,No,Yes,English,555,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,H Is For Hawk,Helen Macdonald,Science,No,Yes,English,283,Boston,Yes!,Yes,Yes,Yes,,N/A,N/A,N/A
+2,The Odyssey,Homer,Classic,No,Yes,English,365,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,The Case For God,Karen Armstrong,Religion,No,Yes,English,330,Boston,Yes,Rec,Rec,Yes,,N/A,N/A,N/A
+,The Woman They Could Not Silence,Kate Moore,History,No,Yes,English,454,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,Sex And Vanity,Kevin Kwan,Fiction,No,Yes,English,315,Chicago,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+1,Ringworld,Larry Niven,Classic,No,Yes,English,342,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,China Dolls,Lisa See,Fiction,No,Yes,English,376,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Circe,Madeline Miller,Fiction,No,Yes,English,385,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,The Song Of Achilles,Madeline Miller,Fiction,No,Yes,English,369,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,"Silver, Sword, & Stone",Marie Arana,South American History,No,Yes,English,362,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,This Is Your Mind On Plants,Michael Pollan,Science,No,Yes,English,247,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,My Thoughts Be Bloody,Nora Titone,Civil War,No,Yes,English,386,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,The Book Of Eels,Patrick Svensson,Science,No,Yes,English,235,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+2,The New Silk Roads,Peter Frankopan,China,No,Yes,English,230,Boston,Yes,Rec,Rec,Yes,,N/A,N/A,N/A
+1,Silk Roads,Peter Frankopan,China,No,Yes,English,505,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,In The Heights Finding Home,"Quiara Alegría Hudes, Jeremy McCarter, & Lin-Manuel Miranda",Theatre,No,Yes,English,269,Chicago,No,Rec,Yes,Yes,,N/A,N/A,N/A
+1,The Poppy War,R.F. Kuang,Fiction,No,Yes,English,527,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,God: A Human History,Reza Aslan,Religion,No,Yes,english,171,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,Daughter Of The Deep,Rick Riordan,Fiction,No,Yes,English,336,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,Hymns Of The Republic,S.C. Gwynne,Civil War,No,Yes,English,325,Boston,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,The Disappearing Spoon,Sam Kean,Science,No,Yes,English,346,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Early,Sarah DiGregorio,Science,No,Yes,English,308,Chicago,Yes,Rec,Rec,Yes,,N/A,N/A,N/A
+,Gods Of Jade And Shadow,Silvia Moreno-Garcia,Fiction,No,Yes,English,334,Boston,Yes,Yes,Yes,Yes,,N/A,N/A,N/A
+,In The Shadow Of The Sword,Tom Holland,History,No,Yes,English,474,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Confederates In The Attic,Tony Horwitz,Civil War,No,Yes,English,390,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Strength In What Remains,Tracy Kidder,History,No,Yes,English,259,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+,Abraham Lincoln And Civil War America,William E. Gienapp,Civil War,No,Yes,English,203,Chicago,Yes,Rec,Rec,Yes,,N/A,N/A,N/A
+,China In Ten Words,Yu Hua,China,No,Yes,English,225,Boston,Yes,Rec,Rec,Yes,,N/A,N/A,N/A
+,Invisible Child ,Andrea Elliott,Race Relations,No,Yes,English,525,Boston,Yes,Yes,Yes,Yes,"October 19, 2022",N/A,N/A,N/A
+1,The Rise Of Theodore Roosevelt,Edmund Morris,American History,Yes,Yes,English,782,Chicago,Yes,Rec,Yes,Yes,"January 1, 2016","June 22, 2021",1999,5.476712329
+,Emma,Jane Austen,Classic,Yes,Yes,English,448,Chicago,Yes!,Rec,Yes,Yes,"January 1, 2016","January 1, 2016",0,0
+,Pride And Prejudice,Jane Austen,Classic,Yes,Yes,English,375,Chicago,Yes!,Yes,Yes,Yes,"January 1, 2016","January 1, 2016",0,0
+,The Underground Girls Of Kabul,Jenny Nordberg,Gender Studies,Yes,Yes,English,306,Chicago,Yes,Rec,Yes,Yes,"January 1, 2016","October 6, 2020",1740,4.767123288
+1,Amulet Of Samarkand,Johnathan Stroud,Fiction,Yes,Yes,English,464,Boston,Yes,Yes,Yes,Yes,"January 1, 2016","January 1, 2016",0,0
+2,The Other Boleyn Girl,Philippa Gregory,Fiction,Yes,Yes,English,661,Chicago,Yes,Rec,Yes,Yes,"January 1, 2016","July 29, 2020",1671,4.578082192
+,The Divine Comedy,Dante Alighieri,Classic,Yes,Yes,English,693,Chicago,Yes,Yes,Yes,Yes,"July 1, 2017","July 1, 2018",365,1
+,Notorious RBG,Irin Cameron & Shana Knizhnik,RBG,Yes,Yes,English,195,Chicago,Yes,Rec,Yes,Yes,"September 1, 2017","December 28, 2020",1214,3.326027397
+,Behind The Beautiful Forevers,Katherine Boo,Textbook,Yes,Yes,English,254,Chicago,Yes,Yes,Yes,Yes,"September 1, 2017","September 1, 2017",0,0
+,Why Are All The Black Kids..,Beverly Daniel Tatum,Race Relations,Yes,Yes,English,358,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019","May 15, 2021",684,1.873972603
+,Dracula,Bram Stoker,Classic,Yes,Yes,English,413,Chicago,Yes!,Yes,Yes,Yes,"July 1, 2019","September 30, 2019",91,0.2493150685
+,1491,Charels C. Mann,Native Americans,Yes,Yes,English,416,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019","November 19, 2021",872,2.389041096
+,Little Princes,Conor Grennan,Memior,Yes,Yes,English,282,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019","August 31, 2019",61,0.1671232877
+,Flowers For Algernon,Daniels KeYes,Classic,Yes,Yes,English,311,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","October 31, 2019",122,0.3342465753
+,Rebecca,Daphnie duMaurier,Classic,Yes,Yes,English,380,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019","May 7, 2020",311,0.8520547945
+,Night,Elie Wiesel,WWII,Yes,Yes,English,115,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019","July 1, 2019",0,0
+,Devil In The White City,Erik Larson,American History,Yes,Yes,English,390,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019",,-43647,-119.5808219
+,1421,Gavin Menzies,China,Yes,Yes,English,491,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019","September 13, 2020",440,1.205479452
+,Guns Germs And Steel,Jared Diamond,Anthropology,Yes,Yes,English,445,Chicago,Yes,Rec,Yes,Yes,"July 1, 2019","October 31, 2019",122,0.3342465753
+,Anna Karenina,Leo Tolstoy,Classic,Yes,Yes,English,870,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019",,-43647,-119.5808219
+,Frankenstein,Mary Shelley,Classic,Yes,Yes,English,282,Chicago,Yes!,Rec,Yes,Yes,"July 1, 2019","July 1, 2019",0,0
+,The Immortal Life Of Henrietta Lacks,Rebecca Skloot,Science,Yes,Yes,English,345,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","September 30, 2019",91,0.2493150685
+,My Own Words,"Ruth Nader Ginsburg, Mary Hartnett, & Wendy W. Williams",RBG,Yes,Yes,English,334,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","August 31, 2019",61,0.1671232877
+,The Outsiders,S.E. Hinton,Fiction,Yes,Yes,English,180,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","July 1, 2019",0,0
+,Water For Elephants,Sara Gruen,Fiction,Yes,Yes,English,331,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","July 1, 2019",0,0
+,The Gene,Siddhartha Mukherjee,Science,Yes,Yes,English,498,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","July 31, 2019",30,0.08219178082
+,The Emperor Of All Maladies,Siddhartha Mukherjee,Science,Yes,Yes,English,472,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","September 30, 2019",91,0.2493150685
+,Cleopatra,Stacy Schiff,Egyptian Studies,Yes,Yes,English,326,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","July 31, 2019",30,0.08219178082
+,Educated,Tara Westover,Memior,Yes,Yes,English,332,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","August 31, 2019",61,0.1671232877
+,Sapiens,Yuval Noah Harari,Anthropology,Yes,Yes,English,416,Chicago,Yes,Yes,Yes,Yes,"July 1, 2019","July 31, 2019",30,0.08219178082
+,War And Peace,Leo Tolstoy,Classic,Yes,Yes,English,1110,Chicago,Yes!,Rec,Yes,Yes,"August 1, 2019","October 28, 2021",819,2.243835616
+,Radium Girls,Kate Moore,American History,Yes,Yes,English,405,Chicago,Yes,Yes,Yes,Yes,"October 1, 2019","October 09, 2019",8,0.02191780822
+,I Know Why The Caged Bird Sings,Maya Angelou,Memior,Yes,Yes,English,289,Chicago,Yes,Rec,Yes,Yes,"October 14, 2019","October 14, 2019",0,0
+,Marie Antoinette,Antonia Fraser,Biography,Yes,Yes,English,458,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019",,-43755,-119.8767123
+3,Brisingr,Christopher Paolini,Fiction,Yes,Yes,English,748,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019","October 17, 2019",0,0
+4,Inheritance,Christopher Paolini,Fiction,Yes,Yes,English,849,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019","October 17, 2019",0,0
+,John Adams,David McCullough,American History,Yes,Yes,English,651,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019","January 29, 2020",104,0.2849315068
+3,Ptolemy's Gate,Jonathan Stroud,Fiction,Yes,Yes,English,501,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019","October 17, 2019",0,0
+4,Winter,Marissa Meyer,Fiction,Yes,Yes,English,819,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019","October 17, 2019",0,0
+,The God Delusion,Richard Dawkins,Religion,Yes,Yes,English,420,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019",,-43755,-119.8767123
+,Hamilton,Ron Chernow,American History,Yes,Yes,English,738,Chicago,Yes,Yes,Rec,Yes,"October 17, 2019","October 17, 2019",0,0
+,Grant,Ron Chernow,American History,Yes,Yes,English,959,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019",,-43755,-119.8767123
+,Salem's Lot,Stephen King,Fiction,Yes,Yes,English,381,Chicago,Yes,Yes,Yes,Yes,"October 17, 2019","January 31, 2020",106,0.2904109589
+,A Beautiful Mind,Sylvia Nasar,Biography,Yes,Yes,English,390,Chicago,Yes,Rec,Yes,Yes,"October 17, 2019","December 1, 2019",45,0.1232876712
+,The Jungle,Upton Sinclair,Classic,Yes,Yes,English,373,Chicago,Yes!,Yes,Yes,Yes,"October 17, 2019","October 17, 2019",0,0
+,Will My Cat Eat My Eyeballs?,Caitlin Doughty,Death,Yes,Yes,English,204,Chicago,Yes,Rec,Yes,Yes,"November 15, 2019","February 19, 2020",96,0.2630136986
+,Uncle Tom's Cabin,Harriet Beecher Stowe,Classic,Yes,Yes,English,462,Chicago,Yes,Yes,Yes,Yes,"November 15, 2019","December 31, 2019",46,0.1260273973
+,Wild Swans,Jung Chang,China,Yes,Yes,English,508,Chicago,Yes,Rec,Yes,Yes,"November 15, 2019","May 24, 2020",191,0.5232876712
+,She Said,Jodi Kantor & Megan Twohey,Gender Studies,Yes,Yes,English,261,Chicago,Yes,Yes,Yes,Yes,"December 1, 2019","December 31, 2019",30,0.08219178082
+,Refugee,Alan Grantz,Fiction,Yes,Yes,English,338,Chicago,Yes,Yes,Yes,Yes,"December 25, 2019",,-43824,-120.0657534
+,The Long Walk,Stephen King,Fiction,Yes,Yes,English,391,Chicago,Yes,Rec,Yes,Yes,"December 25, 2019","January 31, 2020",37,0.101369863
+,Nobody's Victim,Carrie Goldberg,Gender Studies,Yes,Yes,English,219,Chicago,Yes,Rec,Yes,Yes,"December 31, 2019","December 31, 2019",0,0
+,Gods of The Upper Air,Charles King,Anthropology,Yes,Yes,English,345,Chicago,Yes,Rec,Yes,Yes,"January 13, 2020",,-43843,-120.1178082
+,The Heartbeat Of Wounded Knee,David Treuer,Native Americans,Yes,Yes,English,455,Chicago,Yes!,Rec,Yes,Yes,"January 13, 2020",,-43843,-120.1178082
+,The Only Plane In The Sky,Garrett M. Graff,Modern History,Yes,Yes,English,425,Chicago,Yes,Yes,Yes,Yes,"January 13, 2020","March 31, 2020",78,0.2136986301
+,Shout,Laurie Halse Anderson,Poetry,Yes,Yes,English,291,Chicago,Yes,Yes,Yes,Yes,"January 13, 2020","January 23, 2020",10,0.02739726027
+,Say Nothing,Patrick Radden Keefe,History,Yes,Yes,English,348,Chicago,Yes,Yes,Yes,Yes,"January 13, 2020",,-43843,-120.1178082
+,Underland,Robert Macfarlane,Science,Yes,Yes,English,425,Chicago,Yes!,Rec,Yes,Yes,"January 13, 2020","May 14, 2020",122,0.3342465753
+,She Has Her Mother's Laugh,Carl Zimmer,Science,Yes,Yes,English,574,Chicago,Yes,Rec,Yes,Yes,"January 15, 2020","March 12, 2021",422,1.156164384
+,Midnight In Chernobyl,Adam Higginbotham,History,Yes,Yes,English,,Chicago,Yes,Yes,Yes,Yes,"February 10, 2020",,-43871,-120.1945205
+,High School,Tegan Quin and Sara Quin,Memior,Yes,Yes,English,361,Chicago,Yes,Rec,Yes,Yes,"February 10, 2020",,-43871,-120.1945205
+,Oliver Twist,Charles Dickens,Classic,Yes,Yes,English,506,Chicago,Yes,Rec,Yes,Yes,"February 20, 2020",,-43881,-120.2219178
+,Jane Eyre,Charlotte Bronte,Classic,Yes,Yes,English,527,Chicago,Yes!,Rec,Yes,Yes,"February 20, 2020","June 29, 2022",860,2.356164384
+2,Eldest,Christopher Paolini,Fiction,Yes,Yes,English,668,Chicago,Yes!,Yes,Yes,Yes,"February 20, 2020","February 20, 2020",0,0
+,Genghis Khan And The Quest For God,Jack Weatherford,Biography,Yes,Yes,English,356,Chicago,Yes,Rec,Yes,Yes,"February 20, 2020",,-43881,-120.2219178
+,Of Mice and Men,John Steinbeck,Classic,Yes,Yes,English,107,Chicago,Yes,Yes,Yes,Yes,"February 20, 2020","February 20, 2020",0,0
+,The Pearl,John Steinbeck,Fiction,Yes,Yes,English,90,Chicago,Yes,Rec,Yes,Yes,"February 20, 2020",,-43881,-120.2219178
+,Speak,Laurie Halse Anderson,Fiction,Yes,Yes,English,198,Chicago,Yes,Yes,Yes,Yes,"February 20, 2020",,-43881,-120.2219178
+,The Book Thief,Markus Zusak,Fiction,Yes,Yes,English,552,Chicago,Yes,Yes,Yes,Yes,"February 20, 2020","February 20, 2020",0,0
+,Weapons of Math Destruction,Cathhy O'neil,Math,Yes,Yes,English,218,Chicago,Yes,Rec,Yes,Yes,"March 1, 2020","December 31, 2020",305,0.8356164384
+,The Curious Incident of the Dog In The Night-time,Mark Haddon,Fiction,Yes,Yes,English,221,Chicago,Yes,Yes,Yes,Yes,"March 1, 2020",,-43891,-120.2493151
+,To Kill a Mockingbird,Harper Lee,Fiction,Yes,Yes,English,376,Chicago,Yes,Yes,Yes,Yes,"March 31, 2020","August 11, 2022",863,2.364383562
+,Lab Girl,Hope Jahren,Memior,Yes,Yes,English,282,Chicago,Yes,Yes,Yes,Yes,"March 31, 2020",,-43921,-120.3315068
+,There There,Tommy Orange,Fiction,Yes,Yes,English,290,Chicago,Yes,Yes,Yes,Yes,"March 31, 2020","November 30, 2020",244,0.6684931507
+,Dear Girls,Ali Wong,Memior,Yes,Yes,English,240,Chicago,Yes,Yes,Yes,Yes,"April 4, 2020","April 4, 2020",0,0
+,A Thousand Splendid Suns,Khaled Hosseini,Fiction,Yes,Yes,English,367,Chicago,Yes,Rec,Yes,Yes,"April 25, 2020",,-43946,-120.4
+,The Adventures of Tom Sawyer,Mark Twain,Classic,Yes,Yes,English,206,Chicago,Yes,Yes,Yes,Yes,"April 25, 2020","April 25, 2020",0,0
+,The Shining,Stephen King,Fiction,Yes,Yes,English,447,Chicago,Yes!,Rec,Yes,Yes,"April 25, 2020","April 25, 2020",0,0
+2,The Girl Who Played with Fire,Stieg Larsson,Fiction,Yes,Yes,English,503,Chicago,Yes,Yes,Yes,Yes,"April 25, 2020","August 11, 2022",838,2.295890411
+,Song of Solomon,Toni Morrison,Classic,Yes,Yes,English,337,Chicago,Yes,Rec,Yes,Yes,"April 25, 2020",,-43946,-120.4
+1,Crazy Rich Asians,Kevin Kwan,Fiction,Yes,Yes,English,559,Chicago,Yes,Yes,Yes,Yes,"June 8, 2020","June 8, 2020",0,0
+2,China Rich Girlfriend,Kevin Kwan,Fiction,Yes,Yes,English,524,Chicago,Yes,Yes,Yes,Yes,"June 20, 2020",,-44002,-120.5534247
+3,Rich People Problems,Kevin Kwan,Fiction,Yes,Yes,English,590,Chicago,Yes,Yes,Yes,Yes,"June 20, 2020",,-44002,-120.5534247
+,Know My Name,Channel Millar,Memior,Yes,Yes,English,357,Chicago,Yes,Yes,Yes,Yes,"July 20, 2020","July 20, 2020",0,0
+,The Boy Who Harnessed the Wind,William Kamkwamba and Bryan Mealer,Memior,Yes,Yes,English,286,Chicago,Yes,Rec,Yes,Yes,"July 20, 2020",,-44032,-120.6356164
+,Mountains Beyond Mountains,Tracy Kidder,Textbook,Yes,Yes,English,333,Chicago,Yes,Rec,Yes,Yes,"September 1, 2020","September 1, 2020",0,0
+,The Uninhabitable Earth,David Wallace-Wells,Science,Yes,Yes,English,310,Chicago,Yes,Rec,Yes,Yes,"October 1, 2020","October 1, 2020",0,0
+,White Fragility,Robin Diangelo,Race Relations,Yes,Yes,English,154,Chicago,Yes,Yes,Yes,Yes,"October 1, 2020","October 28, 2020",27,0.07397260274
+1,Gideon The Ninth,Tamsyn Muir,Fiction,Yes,Yes,English,448,Chicago,Yes,Yes,Yes,Yes,"October 1, 2020","October 1, 2020",0,0
+,Beloved,Toni Morrison,Fiction,Yes,Yes,English,324,Chicago,Yes,Rec,Yes,Yes,"October 1, 2020","October 1, 2020",0,0
+,Native Son,Richard Wright,Classic,Yes,Yes,English,504,Chicago,Yes,Rec,Yes,Yes,"October 15, 2020",,-44119,-120.8739726
+,The Road,Cormac McCarthy,Fiction,Yes,Yes,English,241,Chicago,Yes,Rec,Yes,Yes,"October 27, 2020",,-44131,-120.9068493
+,Bury My Heart At Wounded Knee,Dee Brown,Native Americans,Yes,Yes,English,509,Chicago,Yes!,Yes,Yes,Yes,"October 27, 2020",,-44131,-120.9068493
+,Snow Flower And The Secret Fan,Lisa See,Fiction,Yes,Yes,English,288,Chicago,Yes,Yes,Yes,Yes,"October 27, 2020",,-44131,-120.9068493
+,The Joy Luck Club,Amy Tan,Fiction,Yes,Yes,English,288,Chicago,Yes!,Rec,Yes,Yes,"December 4, 2020",12/24/2020,20,0.05479452055
+,How It All Blew Up,Arvin Ahmadi,Fiction,Yes,Yes,English,304,Chicago,Yes,Yes,Yes,Yes,"December 25, 2020",,-44190,-121.0684932
+,Empress Dowager Cixi,Jung Chang,China,Yes,Yes,English,436,Chicago,Yes,Rec,Yes,Yes,"January 4, 2021",,-44200,-121.0958904
+,Peony In Love,Lisa See,Fiction,Yes,Yes,English,273,Chicago,Yes,Rec,Yes,Yes,"January 4, 2021",,-44200,-121.0958904
+,The Vanishing Half,Brit Bennet,Fiction,Yes,Yes,English,343,Chicago,Yes,Yes,Yes,Yes,"February 20, 2021",,-44247,-121.2246575
+1,Ninth House,Leigh Bardugo,Fiction,Yes,Yes,English,458,Chicago,Yes,Yes,Yes,Yes,"February 20, 2021","February 20, 2021",0,0
+,Cemetery Boys,Aiden Thomas,Fiction,Yes,Yes,English,344,Chicago,Yes,Yes,Yes,Yes,"February 21, 2021",,-44248,-121.2273973
+,Cheaper By The Dozen,Frank B. Gilbreth & Ernestine Gilbreth Carey,Memior,Yes,Yes,English,292,Chicago,Yes,Yes,Yes,Yes,"March 4, 2021","March 4, 2021",0,0
+,Eat The Buddha,Barbara Demick,China,Yes,Yes,English,325,Chicago,Yes,Rec,Yes,Yes,"March 13, 2021",,-44268,-121.2821918
+2,Harrow The Ninth,Tamsyn Muir,Fiction,Yes,Yes,English,512,Chicago,Yes,Yes,Yes,Yes,"March 13, 2021",,-44268,-121.2821918
+,Look Me In The Eye,John Elder Robison,Memior,Yes,Yes,English,304,Chicago,Yes,Rec,Yes,Yes,"March 23, 2021","March 23, 2021",0,0
+,The Tea Girl Of Hummingbird Lane,Lisa See,Fiction,Yes,Yes,English,384,Chicago,Yes,Yes,Yes,Yes,"March 23, 2021","March 23, 2021",0,0
+,Hidden Figures,Margot Lee Shetterly,Gender Studies,Yes,Yes,English,349,Chicago,Yes,Yes,Yes,Yes,"March 23, 2021",,-44278,-121.309589
+2,Scarlet,Marissa Meyer,Fiction,Yes,Yes,English,454,Chicago,Yes,Yes,Yes,Yes,"March 23, 2021","March 23, 2021",0,0
+,Becoming,Michelle Obama,Memior,Yes,Yes,English,426,Chicago,Yes,Yes,Yes,Yes,"March 23, 2021",,-44278,-121.309589
+,Life Of Pi,Yann Martel,Fiction,Yes,Yes,English,460,Chicago,Yes,Yes,Yes,Yes,"March 23, 2021","March 23, 2021",0,0
+,Stiff,Mary Roach,Death,Yes,Yes,English,292,Chicago,Yes,Rec,Yes,Yes,"May 5, 2021",,-44321,-121.4273973
+,Hood Feminism,Mikki Kendall,Gender Studies,Yes,Yes,English,258,Chicago,Yes,Yes,Yes,Yes,"May 5, 2021",,-44321,-121.4273973
+1,The Girl With The Dragon Tattoo,Stieg Larsson,Fiction,Yes,Yes,English,590,Chicago,Yes,Yes,Yes,Yes,"May 5, 2021","September 4, 2021",122,0.3342465753
+1,Girls Of Paper And Fire,Natasha Ngan,Fiction,Yes,Yes,English,391,Chicago,Yes,Yes,Yes,Yes,"May 31, 2021","May 21, 2022",355,0.9726027397
+,An Excess Male,Maggie Shen King,Fiction,Yes,Yes,English,402,Chicago,Yes,Rec,Yes,Yes,"September 1, 2021","April 23, 2022",234,0.6410958904
+1,Iron Widow,Xiran Jay Zhao,Fiction,Yes,Yes,English,391,Chicago,Yes,Yes,Yes,Yes,"September 21, 2021","October 24, 2021",33,0.0904109589
+1,The Black Tides Of Heaven,Neon Yang,Fiction,Yes,Yes,English,236,Chicago,Yes!,Yes,Yes,Yes,"March 3, 2022","May 13, 2022",71,0.1945205479
+,Winter's Orbit,Everina Maxwell,Fiction,Yes,Yes,English,428,Chicago,Yes,Rec,Yes,Yes,"March 15, 2022","May 14, 2022",60,0.1643835616
+0.1,I Robot,Issac Asimov,Fiction ,Yes,Yes,English,224,Chicago,Yes,Yes,Yes,Yes,"March 15, 2022","September 16, 2022",185,0.5068493151
+,Machinehood,S.B. Divya,Fiction,Yes,Yes,English,401,Chicago,Yes,Rec,Yes,Yes,"March 22, 2022","May 25, 2022",64,0.1753424658
+,The Girl Who Fell Beneath The Sea,Axie Oh,Fiction,Yes,Yes,English,321,Chicago,Yes,Rec,Yes,Yes,"April 7, 2022","June 5, 2022",59,0.1616438356
+1,Six Crimson Cranes,Elizabeth Lim,Fiction,Yes,Yes,English,454,Chicago,Yes,Yes,Yes,Yes,"April 7, 2022","October 10, 2022",186,0.5095890411
+,How The Word Is Passed,Clint Smith,Race Relations,Yes,Yes,English,290,Chicago,Yes,Yes,Yes,Yes,"April 30, 2022","June 12, 2022",43,0.1178082192
+,The Great Believers,Rebecca Makkai,Fiction,Yes,Yes,English,418,Chicago,Yes,Yes,Yes,Yes,"May 3, 2022","June 14, 2022",42,0.1150684932
+,The Veiled Throne,Ken Liu,Fiction,Yes,Yes,English,982,Chicago,Yes,Rec,Yes,Yes,"May 10, 2022","May 31, 2022",21,0.05753424658
+,The Last Cuentista,Donna Barba Higuera,Fiction,Yes,Yes,English,314,Chicago,Yes,Yes,Yes,Yes,"May 18, 2022","September 28, 2022",133,0.3643835616
+2,Girls Of Storm And Shadow,Natasha Ngan,Fiction,Yes,Yes,English,397,Chicago,Yes,Rec,Yes,Yes,"May 23, 2022","July 19, 2022",57,0.1561643836
+,The House in the Cerulean Sea,T.J. Klune,Fiction,Yes,Yes,English,396,Chicago,Yes,Yes,Yes,Yes,"June 2, 2022","July 14, 2022",42,0.1150684932
+2,The Year Of The Flood,Margaret Atwood,Fiction,Yes,Yes,English,431,Chicago,Yes,Yes,Rec,Yes,"June 18, 2022","July 16, 2022",28,0.07671232877
+1,Oryx And Crake,Margaret Atwood,Fiction,Yes,Yes,English,374,Chicago,Yes,Rec,Yes,Yes,"June 18, 2022","July 7, 2022",19,0.05205479452
+,The System,Robert Reich,Modern History,Yes,Yes,English,197,Chicago,Yes,Rec,Yes,Yes,"June 18, 2022","September 27, 2022",101,0.2767123288
+,One Last Stop,Casey McQuiston,Fiction,Yes,Yes,English,417,Chicago,Yes,Yes,Yes,Yes,"June 19, 2022","October 17, 2022",120,0.3287671233
+2,The Second Rebel,Linden A. Lewis,Fiction,Yes,Yes,English,502,Chicago,Yes,Rec,Yes,Yes,"June 27, 2022","July 31, 2022",34,0.09315068493
+,Where The Mountain Meets The Moon,Grace Lin,Fiction,Yes,Yes,English,278,Chicago,Yes,Yes,Yes,Yes,"July 2, 2022","July 13, 2022",11,0.0301369863
+,In The Time Of The Butterflies,Julia Alvarez,Fiction,Yes,Yes,English,321,Chicago,Yes,Rec,Yes,Yes,"July 2, 2022","September 14, 2022",74,0.202739726
+2,The Merciless Ones,Namina Forna,Fiction,Yes,Yes,English,453,Chicago,Yes,Rec,Yes,Yes,"July 2, 2022",N/A,N/A,N/A
+,Leave the World Behind,Rumaan Alam,Fiction,Yes,Yes,English,241,Chicago,Yes,Yes,Yes,Yes,"July 2, 2022","July 24, 2022",22,0.0602739726
+,Zachary Ying And The Dragon Emperor,Xiran Jay Zhao,Fiction,Yes,Yes,English,340,Chicago,Yes,Yes,Yes,Yes,"July 10, 2022","September 24, 2022",76,0.2082191781
+3,MaddAddam,Margaret Atwood,Fiction,Yes,Yes,English,390,Chicago,Yes,Rec,Yes,Yes,"July 13, 2022","July 31, 2022",18,0.04931506849
+3,Cress,Marissa Meyer,Fiction,Yes,Yes,English,550,Chicago,Yes,Yes,Yes,Yes,"July 28, 2022","July 28, 2022",0,0
+,The Feather Thief,Kirk W. Johnson,History,Yes,Yes,English,248,Chicago,Yes,Yes,Yes,Yes,"July 30, 2022","July 30, 2022",0,0
+,Hamlet,William Shakespeare,Play,Yes,Yes,English,287,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022","July 30, 2022",0,0
+,Twelfth Night,William Shakespeare,Play,Yes,Yes,English,189,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022","July 30, 2022",0,0
+,Othello,William Shakespeare,Play,Yes,Yes,English,265,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022","July 30, 2022",0,0
+,Macbeth,William Shakespeare,Play,Yes,Yes,English,191,Chicago,Yes,Rec,Yes,Yes,"July 30, 2022","July 30, 2022",0,0
+,Convenience Store Woman,Sayaka Murata,Fiction,Yes,Yes,English,172,Boston,Yes,Rec,Yes,Yes,"August 4, 2022","August 9, 2022",5,0.01369863014
+,Arsenic And Adobo,Mia P. Manansala,Fiction,Yes,Yes,English,295,Boston,Yes,Yes,Yes,Yes,"August 20, 2022","August 25, 2022",5,0.01369863014
+,"Red, White, & Royal Blue",Casey Mcquiston,Fiction,Yes,Yes,English,418,Boston,Yes,Yes,Yes,Yes,"September 17, 2022","September 17, 2022",0,0
+,Where The Past Begins,Amy Tan,China,Yes,Yes,English,357,Chicago,Yes,Rec,Yes,Yes,,"April 18, 2022",44669,122.3808219
+,Tender Is The Flesh,Augustina Bazterrica,Fiction,Yes,Yes,English,209,Chicago,Yes,Rec,Yes,Yes,,,0,0
+,Reading Lolita in Tehran,Azar Nafisi,Memior,Yes,Yes,English,343,Chicago,Yes,Rec,Yes,Yes,,"July 15, 2022",44757,122.6219178
+,Just Mercy,Bryan Stevenson,Race Relations,Yes,Yes,English,336,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,Inferno,Catherine Cho,Memior,Yes,Yes,English,242,Chicago,Yes,Rec,Yes,Yes,,,0,0
+2,Our Violent Ends,Chloe Gong,Fiction,Yes,Yes,English,496,Chicago,Yes,Yes,Yes,Yes,,"July 31, 2022",44773,122.6657534
+1,These Violent Delights,Chloe Gong,Fiction,Yes,Yes,English,439,Chicago,Yes,Yes,Yes,Yes,,"July 5, 2022",44747,122.5945205
+1,Eragon,Christopher Paolini,Fiction,Yes,Yes,English,497,Boston,Yes!,Yes,Yes,Yes,,,0,0
+,Frankly In Love,David Yoon,Fiction,Yes,Yes,English,406,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,The Sixth Extinction,Elizabeth Kolbert,Science,Yes,Yes,English,269,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,The Great Gatsby,F. Scott Fitzgerald,Classic,Yes,Yes,English,182,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,The Romanov Sisters,Helen Rappaport,History,Yes,Yes,English,381,Chicago,Yes,Yes,Yes,Yes,,"June 20, 2022",44732,122.5534247
+,Caste,Isabel Wilkerson,Race Relations,Yes,Yes,English,388,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,Persuasion,Jane Austen,Classic,Yes,Yes,English,238,Chicago,Yes!,Rec,Yes,Yes,,,0,0
+,Sense And Sensibility,Jane Austen,Classic,Yes,Yes,English,337,Chicago,Yes!,Rec,Yes,Yes,,,0,0
+,Stamped,Jason Reynolds & Ibram X. Kendi,Race Relations,Yes,Yes,English,248,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,The Anthropocene Reviewed,John Green,Memior,Yes,Yes,English,274,Chicago,Yes,Yes,Yes,Yes,,,0,0
+2,The Golem's Eye,Johnathan Stroud,Fiction,Yes,Yes,English,556,Boston,Yes,Yes,Yes,Yes,,,0,0
+,War Of The Whales,Joshua Horwitz,Science,Yes,Yes,English,355,Chicago,Yes,Rec,Yes,Yes,,"July 3, 2022",44745,122.5890411
+,Cinderella Is Dead,Kalynn Bayron,Fiction,Yes,Yes,English,385,Chicago,Yes,Rec,Yes,Yes,,,0,0
+1,The Grace Of Kings,Ken Liu,Fiction,Yes,Yes,English,618,Chicago,Yes,Rec,Yes,Yes,,,0,0
+2,The Wall Of Storms,Ken Liu,Fiction,Yes,Yes,English,852,Chicago,Yes,Rec,Yes,Yes,,,0,0
+,Kite Runner,Khaled Hosseini,Fiction,Yes,Yes,English,371,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,"Gmorning, Gnight",Lin-Manuel Miranda,Poetry,Yes,Yes,English,201,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,Hamilton The Revolution,Lin-Manuel Miranda & Jeremy McCarter,Theatre,Yes,Yes,English,285,Chicago,Yes,Yes,Yes,Yes,,,0,0
+1,The First Sister,Linden A. Lewis,Fiction,Yes,Yes,English,342,Chicago,Yes!,Rec,Yes,Yes,,,0,0
+,The Island Of Sea Women,Lisa See,Fiction,Yes,Yes,English,365,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,Little Women,Louisa May Alcott,Classic,Yes,Yes,English,520,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,All's Well,Mona Awad,Fiction,Yes,Yes,English,354,Chicago,Yes,Yes,Yes,Yes,,,0,0
+1,The Gilded Ones,Namina Forna,Fiction,Yes,Yes,English,415,Chicago,Yes,Rec,Yes,Yes,,"June 30, 2022",44742,122.5808219
+,The Sun Is Also A Star,Nicola Yoon,Fiction,Yes,Yes,English,344,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,Empire Of Pain,Patrick Radden Keefe,Modern History,Yes,Yes,English,441,Chicago,Yes,Yes,Yes,Yes,,"June 30, 2022",44742,122.5808219
+,"Fevers, Feuds, and Diamonds",Paul Farmer,Modern History,Yes,Yes,English,526,Chicago,Yes,Rec,Yes,Yes,,,0,0
+,Fathoms,Rebecca Giggs,Science,Yes,Yes,English,283,Chicago,Yes,Rec,Yes,Yes,,,0,0
+1,Black Sun,Rebecca Roanhorse,Fiction,Yes,Yes,English,450,Chicago,Yes,Rec,Yes,Yes,,,0,0
+,Light From Uncommon Stars,Ryka Aoki,Fiction,Yes,Yes,English,369,Chicago,Yes,Rec,Yes,Yes,,,0,0
+,Empire Of The Summer Moon,S.C. Gwynne,Native Americans,Yes,Yes,English,319,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,Race The Sands,Sarah Beth Durst,Fiction,Yes,Yes,English,528,Chicago,Yes,Rec,Yes,Yes,,,0,0
+1,She Who Became The Sun,Shelley Parker-Chan,Fiction,Yes,Yes,English,411,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,Mexican Gothic,Silvia Moreno-Garcia,Fiction,Yes,Yes,English,301,Chicago,Yes,Yes,Yes,Yes,,,0,0
+,The Downstairs Girl,Stacey Lee,Fiction,Yes,Yes,English,369,Chicago,Yes,Yes,Yes,Yes,,"January 13, 2022",44574,122.1205479
+,The Only Good Indians,Stephen Graham Jones,Fiction,Yes,Yes,English,305,Chicago,Yes,Rec,Yes,Yes,,"November 16, 2021",44516,121.9616438
+,Daughter Of The Moon Goddess,Sue Lynn Tan,Fiction,Yes,Yes,English,498,Chicago,Yes,Yes,Yes,Yes,,"February 17, 2022",44609,122.2164384
+,The Soul Of An Octopus,Sy Montgomery,Science,Yes,Yes,English,244,Chicago,Yes,Yes,Yes,Yes,,"July 10, 2022",44752,122.6082192
+,The Mosquito,Timothy C. Winegard,Science,Yes,Yes,English,442,Chicago,Yes,Yes,Yes,Yes,,"January 11, 2022",44572,122.1150685
+1,A Wizard Of Earthsea,Ursula K. Le Guin,Fiction,Yes,Yes,English,257,Boston,Yes,Yes,Yes,Yes,,"August 30, 2022",44803,122.7479452
+,The Code Breaker,Walter Isaacson,Science,Yes,Yes,English,481,Boston,Yes,Yes,Yes,Yes,,"September 22, 2022",44826,122.8109589
+,Homo Deus,Yuval Noah Harari,Anthropology,Yes,Yes,English,402,Chicago,Yes!,Yes,Yes,Yes,,"February 19, 2022",44611,122.2219178
+,Under The Whispering Door,T.J. Klune,Fiction,Yes,Yes,English,373,Boston,Yes,Yes,Yes,Yes,,"October 15, 2022",44849,122.8739726
+,A Ladder To The Sky,John Boyne,Fiction,No,Yes,English,362,Boston,Yes,Rec,Yes,Yes,"October 21, 2022",N/A,N/A,N/A
+1,The Sunbearer Trials,Aiden Thomas,Fiction,No,Yes,English,401,Boston,Yes,Rec,Yes,Yes,"October 24, 2022",N/A,N/A,N/A
+,Mediocre,Ijeoma Oluo,Modern History,No,Yes,English,278,Boston,Yes,Yes,Yes,Yes,"October 24, 2022",N/A,N/A,N/A
+,Nightfall,Issac Asimov,Fiction,No,Yes,English,380,Boston,Yes,Rec,Yes,Yes,"October 24, 2022",N/A,N/A,N/A
+1,The Bone Shard Daughter,Andrea Stewart,Fiction,No,Yes,English,435,Boston,Yes,Yes,Yes,Yes,"October 24, 2022",N/A,N/A,N/A
+,Dark Rise,C.S. Pacat,Fiction,No,Yes,English,451,Boston,Yes,Rec,Yes,Yes,"October 31, 2022",N/A,N/A,N/A
+,American Moonshot,Douglas Brinkley,American History,No,Yes,English,460,Chicago,Yes,Rec,Yes,Yes,,N/A,N/A,N/A
+4,The Scum Villain's Self-Saving System Vol 4,Mo Xiang Tong Xiu,MXTX,No,No,English,373,Boston,No,No,No,No,"November 2, 2022",N/A,N/A,N/A
+1,This Poison Heart,Kalynn Bayron,Fiction,No,Yes,English,370,Boston,Yes,Rec,Yes,Yes,"November 3, 2022",N/A,N/A,N/A
+,"Ziggy, Stardust, And Me",James Brandon,Fiction,No,Yes,English,347,Boston,Yes,Rec,Yes,Yes,,,0,0
+1,My Heart Is A Chainsaw,Stephen Graham Jones,Fiction,No,Yes,English,398,Boston,Yes,Yes,Yes,Yes,"November 3, 2022",N/A,N/A,N/A
+,Elatsoe,Darcie Little Badger,Fiction,Yes,Yes,English,453,Boston,Yes,Yes,Yes,Yes,"November 3, 2022","November 13, 2022",10,0.02739726027
+2,The Dragon's Promise,Elizabeth Lim,Fiction,No,Yes,English,482,Boston,Yes,Yes,Yes,Yes,"November 3, 2022",N/A,N/A,N/A
+,Pachinko,Min Jin Lee,Fiction,No,Yes,English,479,Boston,Yes,Yes,Yes,Yes,"October 30, 2022",N/A,N/A,N/A
+3,Girls Of Fate And Fury,Natasha Ngan,Fiction,No,Yes,English,423,Boston,Yes,Rec,Yes,Yes,"November 1, 2022",N/A,N/A,N/A
+,10 Minutes 38 Seconds In This Strange World,Elif Shafak,Fiction,No,Yes,English,306,Boston,Yes,Rec,Rec,!,"October 29, 2022",N/A,N/A,N/A
+1,The Priory Of The Orange Tree,Samantha Shannon,Fiction,No,Yes,English,804,Boston,Yes,No,No,No,"October 30, 2022",N/A,N/A,N/A
+,The Lost Dreamer,Lizz Huerta,Fiction,No,Yes,English,376,Boston,Yes,Rec,Yes,Yes,"October 30, 2022",N/A,N/A,N/A
+,Other Ever Afters,Melsnie Gillman,Fiction,Yes,No,English,230,Boston,No,No,No,No,"November 5, 2022","November 6, 2022",1,0.002739726027
+,Hell Followed With Us,Andrew Joseph White,Fiction,No,Yes,English,398,Boston,Yes,Rec,Yes,Yes,"November 5, 2022",N/A,N/A,N/A
+,The Order Of The Pure Moon Reflected In Water,Zen Cho,Fiction,No,Yes,English,158,Boston,Yes,Rec,Yes,Yes,"November 13, 2022",N/A,N/A,N/A
+,Braiding Sweetgrass,Robin Wall Kimmerer,Science,No,Yes,English,384,Boston,Yes,Yes,Yes,Yes,"November 13, 2022",N/A,N/A,N/A
+,The Mathematics Of The Gods And The Algorithms Of Men,Paolo Zellini,Science,No,No,English,200,Boston,No,No,No,No,"November 13, 2022",N/A,N/A,N/A
+1,Strike The Zither,Joan He,Fiction,No,Yes,English,337,Boston,Yes,Rec,Rec,!,"November 13, 2022",N/A,N/A,N/A
+,,,,,,English,,Boston,,,,,,,0,0
+,,,,,,English,,Boston,,,,,,,0,0
+,,,,,,English,,Boston,,,,,,,0,0
+,,,,,,English,,Boston,,,,,,,0,0
+,,,,,,English,,Boston,,,,,,,0,0
+,,,,,,English,,Boston,,,,,,,0,0
+,,,,,,English,,Boston,,,,,,,0,0
+,,,,,,English,,Boston,,,,,,,0,
+,,,,,,English,,Boston,,,,,,,0,
+,,,,,,English,,Boston,,,,,,,0,
+,,,,,,English,,Boston,,,,,,,0,
+,,,,,,English,,Boston,,,,,,,0,
+,,,,,,English,,Boston,,,,,,,0,
+,,,,,,English,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,0,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,N/A,
+,,,,,,,,Boston,,,,,,,N/A,
+,,,,,,,,Boston,,,,,,,N/A,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,English,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,,,
+,,,,,,,,Boston,,,,,,N/A,N/A,
